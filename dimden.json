@@ -6,12 +6,408 @@
     "coverPicture": "https://pbs.twimg.com/profile_banners/1708130407663759360/1704249626",
     "description": "",
     "location": "Ukraїne",
-    "followers": 32553,
-    "following": 564,
+    "followers": 32580,
+    "following": 565,
     "createdAt": "Sat Sep 30 14:43:32 +0000 2023",
     "bio": "イン　ター　ネ　ット　や　め　ろ　！\n\nWebsite: https://t.co/oPVSvAFgSd\nDonate: https://t.co/AccKvScJ8l\nDiscord: https://t.co/hWKgSmgNml\nBsky: https://t.co/bblrUokNYB"
   },
   "tweets": [
+    {
+      "type": "tweet",
+      "id": "1933988690428149950",
+      "url": "https://x.com/dimden/status/1933988690428149950",
+      "twitterUrl": "https://twitter.com/dimden/status/1933988690428149950",
+      "text": "oomf is alive",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 26,
+      "quoteCount": 0,
+      "viewCount": 1141,
+      "createdAt": "Sat Jun 14 20:43:30 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1933988690428149950",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1933866738505936943",
+      "url": "https://x.com/dimden/status/1933866738505936943",
+      "twitterUrl": "https://twitter.com/dimden/status/1933866738505936943",
+      "text": "@darek13524 theres suddenly 10x more of these in the last week https://t.co/rySHP2oGRi",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "viewCount": 236,
+      "createdAt": "Sat Jun 14 12:38:54 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1933850614112633243",
+      "conversationId": "1933850614112633243",
+      "inReplyToUserId": "3396908626",
+      "inReplyToUsername": "darek13524",
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rySHP2oGRi",
+            "expanded_url": "https://twitter.com/dimden/status/1933866738505936943/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 92,
+                    "w": 92,
+                    "x": 626,
+                    "y": 81
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 92,
+                    "w": 92,
+                    "x": 626,
+                    "y": 81
+                  }
+                ]
+              }
+            },
+            "id_str": "1933866732965199872",
+            "indices": [
+              63,
+              86
+            ],
+            "media_key": "3_1933866732965199872",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrWeYwtVgAACgACGtZ5jXeW8C8AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtZ5jC1WAAAKAAIa1nmNd5bwLwAA",
+                "media_key": "3_1933866732965199872"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GtZ5jC1WAAAMYFr.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 428,
+                  "w": 765,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 765,
+                  "w": 765,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 872,
+                  "w": 765,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 977,
+                  "w": 489,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 977,
+                  "w": 765,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 977,
+              "width": 765
+            },
+            "sizes": {
+              "large": {
+                "h": 977,
+                "w": 765
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rySHP2oGRi"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "3396908626",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "Daro ",
+            "screen_name": "darek13524"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1933624965649379742",
+      "url": "https://x.com/dimden/status/1933624965649379742",
+      "twitterUrl": "https://twitter.com/dimden/status/1933624965649379742",
+      "text": "the most unfunny tweet award https://t.co/unKIwiSkxj",
+      "source": "Twitter for iPhone",
+      "retweetCount": 77,
+      "replyCount": 37,
+      "likeCount": 1922,
+      "quoteCount": 5,
+      "viewCount": 24155,
+      "createdAt": "Fri Jun 13 20:38:11 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 76,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1933624965649379742",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/unKIwiSkxj",
+            "expanded_url": "https://twitter.com/dimden/status/1933624965649379742/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1933624961148567552",
+            "indices": [
+              29,
+              52
+            ],
+            "media_key": "3_1933624961148567552",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrVnahKFsAACgACGtWdqVZbsZ4AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtWdqEoWwAAKAAIa1Z2pVluxngAA",
+                "media_key": "3_1933624961148567552"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GtWdqEoWwAAHQYK.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 408,
+                  "w": 728,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 443,
+                  "w": 443,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 443,
+                  "w": 389,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 443,
+                  "w": 222,
+                  "x": 16,
+                  "y": 0
+                },
+                {
+                  "h": 443,
+                  "w": 728,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 443,
+              "width": 728
+            },
+            "sizes": {
+              "large": {
+                "h": 443,
+                "w": 728
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/unKIwiSkxj"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1933563443887362399",
+      "url": "https://x.com/dimden/status/1933563443887362399",
+      "twitterUrl": "https://twitter.com/dimden/status/1933563443887362399",
+      "text": "@eternalaira i also have this disabled which makes it all even more pointless https://t.co/LO849fDK3p",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 17,
+      "quoteCount": 0,
+      "viewCount": 206,
+      "createdAt": "Fri Jun 13 16:33:43 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1933557055962399209",
+      "conversationId": "1933542591569489969",
+      "inReplyToUserId": "1683474960071766019",
+      "inReplyToUsername": "eternalaira",
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/LO849fDK3p",
+            "expanded_url": "https://twitter.com/dimden/status/1933563443887362399/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1933563437071618052",
+            "indices": [
+              78,
+              101
+            ],
+            "media_key": "3_1933563437071618052",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrVZbOZVlAECgACGtVltS+WUV8AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtVls5lWUAQKAAIa1WW1L5ZRXwAA",
+                "media_key": "3_1933563437071618052"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GtVls5lWUAQpsJO.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 551,
+                  "w": 984,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 551,
+                  "w": 551,
+                  "x": 76,
+                  "y": 0
+                },
+                {
+                  "h": 551,
+                  "w": 483,
+                  "x": 110,
+                  "y": 0
+                },
+                {
+                  "h": 551,
+                  "w": 276,
+                  "x": 213,
+                  "y": 0
+                },
+                {
+                  "h": 551,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 551,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 551,
+                "w": 1080
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/LO849fDK3p"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1683474960071766019",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "АiRА",
+            "screen_name": "eternalaira"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1933542591569489969",
+      "url": "https://x.com/dimden/status/1933542591569489969",
+      "twitterUrl": "https://twitter.com/dimden/status/1933542591569489969",
+      "text": "do you also always explain how you ended up solving the problem to chatgpt or are you normal",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 22,
+      "likeCount": 227,
+      "quoteCount": 2,
+      "viewCount": 7143,
+      "createdAt": "Fri Jun 13 15:10:51 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 11,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1933542591569489969",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
     {
       "type": "tweet",
       "id": "1932019230800568671",
@@ -21,9 +417,9 @@
       "source": "Twitter for iPhone",
       "retweetCount": 3,
       "replyCount": 13,
-      "likeCount": 200,
+      "likeCount": 201,
       "quoteCount": 0,
-      "viewCount": 4338,
+      "viewCount": 4597,
       "createdAt": "Mon Jun 09 10:17:34 +0000 2025",
       "lang": "en",
       "bookmarkCount": 3,
@@ -50,7 +446,7 @@
       "replyCount": 1,
       "likeCount": 26,
       "quoteCount": 0,
-      "viewCount": 1291,
+      "viewCount": 1481,
       "createdAt": "Sat Jun 07 14:52:16 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
@@ -77,7 +473,7 @@
       "replyCount": 3,
       "likeCount": 71,
       "quoteCount": 0,
-      "viewCount": 2341,
+      "viewCount": 2575,
       "createdAt": "Sat Jun 07 14:51:26 +0000 2025",
       "lang": "en",
       "bookmarkCount": 4,
@@ -104,7 +500,7 @@
       "replyCount": 0,
       "likeCount": 2,
       "quoteCount": 1,
-      "viewCount": 215,
+      "viewCount": 223,
       "createdAt": "Sat Jun 07 14:47:48 +0000 2025",
       "lang": "es",
       "bookmarkCount": 0,
@@ -141,9 +537,9 @@
       "source": "Twitter for iPhone",
       "retweetCount": 1,
       "replyCount": 5,
-      "likeCount": 66,
+      "likeCount": 67,
       "quoteCount": 1,
-      "viewCount": 3523,
+      "viewCount": 3680,
       "createdAt": "Sat Jun 07 14:29:19 +0000 2025",
       "lang": "en",
       "bookmarkCount": 1,
@@ -170,7 +566,7 @@
       "replyCount": 0,
       "likeCount": 22,
       "quoteCount": 0,
-      "viewCount": 1624,
+      "viewCount": 1747,
       "createdAt": "Fri Jun 06 19:49:59 +0000 2025",
       "lang": "en",
       "bookmarkCount": 1,
@@ -197,7 +593,7 @@
       "replyCount": 0,
       "likeCount": 4,
       "quoteCount": 0,
-      "viewCount": 209,
+      "viewCount": 211,
       "createdAt": "Fri Jun 06 16:59:17 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
@@ -236,7 +632,7 @@
       "replyCount": 1,
       "likeCount": 0,
       "quoteCount": 0,
-      "viewCount": 26,
+      "viewCount": 28,
       "createdAt": "Fri Jun 06 09:34:07 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
@@ -275,7 +671,7 @@
       "replyCount": 1,
       "likeCount": 0,
       "quoteCount": 0,
-      "viewCount": 61,
+      "viewCount": 64,
       "createdAt": "Thu Jun 05 23:30:42 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
@@ -314,7 +710,7 @@
       "replyCount": 4,
       "likeCount": 59,
       "quoteCount": 2,
-      "viewCount": 2596,
+      "viewCount": 2698,
       "createdAt": "Thu Jun 05 22:40:50 +0000 2025",
       "lang": "en",
       "bookmarkCount": 1,
@@ -341,7 +737,7 @@
       "replyCount": 0,
       "likeCount": 0,
       "quoteCount": 0,
-      "viewCount": 7,
+      "viewCount": 9,
       "createdAt": "Thu Jun 05 06:24:31 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
@@ -380,7 +776,7 @@
       "replyCount": 0,
       "likeCount": 0,
       "quoteCount": 0,
-      "viewCount": 177,
+      "viewCount": 180,
       "createdAt": "Wed Jun 04 21:42:08 +0000 2025",
       "lang": "und",
       "bookmarkCount": 0,
@@ -419,7 +815,7 @@
       "replyCount": 0,
       "likeCount": 6,
       "quoteCount": 0,
-      "viewCount": 208,
+      "viewCount": 211,
       "createdAt": "Wed Jun 04 16:33:55 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
@@ -458,7 +854,7 @@
       "replyCount": 1,
       "likeCount": 139,
       "quoteCount": 0,
-      "viewCount": 3373,
+      "viewCount": 3471,
       "createdAt": "Wed Jun 04 15:03:24 +0000 2025",
       "lang": "en",
       "bookmarkCount": 3,
@@ -558,7 +954,7 @@
       "replyCount": 0,
       "likeCount": 1,
       "quoteCount": 0,
-      "viewCount": 35,
+      "viewCount": 38,
       "createdAt": "Wed Jun 04 14:00:59 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
@@ -583,263 +979,6 @@
           }
         ]
       },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930261106116735295",
-      "url": "https://x.com/dimden/status/1930261106116735295",
-      "twitterUrl": "https://twitter.com/dimden/status/1930261106116735295",
-      "text": "@TwittTetris YALL GO LEFT ITS STILL O NOT I",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 3,
-      "quoteCount": 0,
-      "viewCount": 194,
-      "createdAt": "Wed Jun 04 13:51:24 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1930255719443427454",
-      "conversationId": "1930255719443427454",
-      "inReplyToUserId": "1424384057991995397",
-      "inReplyToUsername": "TwittTetris",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1424384057991995397",
-            "indices": [
-              0,
-              12
-            ],
-            "name": "Twittеr Plays Tetris",
-            "screen_name": "TwittTetris"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930253394276458833",
-      "url": "https://x.com/dimden/status/1930253394276458833",
-      "twitterUrl": "https://twitter.com/dimden/status/1930253394276458833",
-      "text": "what the fuck check last few posts these crazy mfs pulled a T-spin in twitter tetris",
-      "source": "Twitter for iPhone",
-      "retweetCount": 21,
-      "replyCount": 5,
-      "likeCount": 276,
-      "quoteCount": 0,
-      "viewCount": 5775,
-      "createdAt": "Wed Jun 04 13:20:46 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 12,
-      "isReply": false,
-      "inReplyToId": null,
-      "conversationId": "1930253394276458833",
-      "inReplyToUserId": null,
-      "inReplyToUsername": null,
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {},
-      "quoted_tweet": {
-        "type": "tweet",
-        "id": "1930240623887425799",
-        "url": "https://x.com/TwittTetris/status/1930240623887425799",
-        "twitterUrl": "https://twitter.com/TwittTetris/status/1930240623887425799",
-        "text": "⬛⬛⬛⬛⬛⬛⬛⬛\n⬛⬛⬛⬛⬛⬛⬛⬛\n⬛⬛⬛⬛🟫⬛⬛⬛ Hi-Score: 140\n⬛⬛⬛⬛🟫🟫🟫⬛ Score: 140\n⬛🟥🟪🟪🟪🟩🟩⬛ Next: O\n🟥🟥🟩🟪🟩🟩🟧⬛\n🟥⬛🟩🟩🟧🟧🟧⬛\n🟧🟧🟧🟩🟪🟨🟨⬛\n🟧🟥🟥🟪🟪🟨🟨⬛\n🟦🟫🟥🟥🟪🟩🟩⬛\n💬=⬅️  🔁=🔄  ❤️=➡️ 8",
-        "source": "Twitter for iPhone",
-        "retweetCount": 2,
-        "replyCount": 4,
-        "likeCount": 56,
-        "quoteCount": 3,
-        "viewCount": 7540,
-        "createdAt": "Wed Jun 04 12:30:01 +0000 2025",
-        "lang": "en",
-        "bookmarkCount": 6,
-        "isReply": false,
-        "inReplyToId": null,
-        "conversationId": "1930240623887425799",
-        "inReplyToUserId": null,
-        "inReplyToUsername": null,
-        "author": {
-          "type": "user",
-          "userName": "TwittTetris",
-          "url": "https://x.com/TwittTetris",
-          "twitterUrl": "https://twitter.com/TwittTetris",
-          "id": "1424384057991995397",
-          "name": "Twittеr Plays Tetris",
-          "isVerified": false,
-          "isBlueVerified": false,
-          "verifiedType": null,
-          "profilePicture": "https://pbs.twimg.com/profile_images/1425794433132421125/3z22DnPy_normal.jpg",
-          "coverPicture": "https://pbs.twimg.com/profile_banners/1424384057991995397/1628771098",
-          "description": "",
-          "location": "updates every 30 minutes",
-          "followers": 2057,
-          "following": 1,
-          "status": "",
-          "canDm": false,
-          "canMediaTag": true,
-          "createdAt": "Sun Aug 08 14:56:45 +0000 2021",
-          "entities": {
-            "description": {
-              "urls": []
-            },
-            "url": {}
-          },
-          "fastFollowersCount": 0,
-          "favouritesCount": 46,
-          "hasCustomTimelines": true,
-          "isTranslator": false,
-          "mediaCount": 0,
-          "statusesCount": 46085,
-          "withheldInCountries": [],
-          "affiliatesHighlightedLabel": {},
-          "possiblySensitive": false,
-          "pinnedTweetIds": [
-            "1926952715940139461"
-          ],
-          "profile_bio": {
-            "description": "tetris where people collaborate\n\n(created by @dimden)",
-            "entities": {
-              "description": {
-                "user_mentions": [
-                  {
-                    "id_str": "0",
-                    "indices": [
-                      45,
-                      52
-                    ],
-                    "name": "",
-                    "screen_name": "dimden"
-                  }
-                ]
-              },
-              "url": {
-                "urls": [
-                  {
-                    "display_url": "dimden.dev",
-                    "expanded_url": "http://dimden.dev",
-                    "indices": [
-                      0,
-                      23
-                    ],
-                    "url": "https://t.co/jJbD55tvVt"
-                  }
-                ]
-              }
-            }
-          },
-          "isAutomated": false,
-          "automatedBy": null
-        },
-        "extendedEntities": {},
-        "card": null,
-        "place": {},
-        "entities": {},
-        "quoted_tweet": null,
-        "retweeted_tweet": null
-      },
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1929846447823798664",
-      "url": "https://x.com/dimden/status/1929846447823798664",
-      "twitterUrl": "https://twitter.com/dimden/status/1929846447823798664",
-      "text": "@isaactheurer i wish",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 3,
-      "quoteCount": 0,
-      "viewCount": 55,
-      "createdAt": "Tue Jun 03 10:23:42 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1929845486799761619",
-      "conversationId": "1929842913728516565",
-      "inReplyToUserId": "2374105603",
-      "inReplyToUsername": "isaactheurer",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "2374105603",
-            "indices": [
-              0,
-              13
-            ],
-            "name": "ISΛΛC T (Human\\Earthling)",
-            "screen_name": "isaactheurer"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1929844024115884403",
-      "url": "https://x.com/dimden/status/1929844024115884403",
-      "twitterUrl": "https://twitter.com/dimden/status/1929844024115884403",
-      "text": "the kinda ppl u fw but everything u say to them sounds aggressive for some reason",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 26,
-      "quoteCount": 0,
-      "viewCount": 1889,
-      "createdAt": "Tue Jun 03 10:14:04 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": false,
-      "inReplyToId": null,
-      "conversationId": "1929844024115884403",
-      "inReplyToUserId": null,
-      "inReplyToUsername": null,
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {},
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1929843435386638618",
-      "url": "https://x.com/dimden/status/1929843435386638618",
-      "twitterUrl": "https://twitter.com/dimden/status/1929843435386638618",
-      "text": "speedrunning first 2 chapters of deltarune before new ones come out",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 20,
-      "quoteCount": 0,
-      "viewCount": 1678,
-      "createdAt": "Tue Jun 03 10:11:44 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": false,
-      "inReplyToId": null,
-      "conversationId": "1929843435386638618",
-      "inReplyToUserId": null,
-      "inReplyToUsername": null,
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {},
       "quoted_tweet": null,
       "retweeted_tweet": null
     }
