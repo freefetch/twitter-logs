@@ -1,0 +1,3888 @@
+{
+  "user": {
+    "userName": "jack",
+    "name": "jack",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1661201415899951105/azNjKOSH_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/12/1742427520",
+    "description": "",
+    "location": "",
+    "followers": 6463828,
+    "following": 3,
+    "createdAt": "Tue Mar 21 20:50:14 +0000 2006",
+    "bio": "no state is the best state"
+  },
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1935515640661790985",
+      "url": "https://x.com/jack/status/1935515640661790985",
+      "twitterUrl": "https://twitter.com/jack/status/1935515640661790985",
+      "text": "@rabble all that matters",
+      "source": "Twitter for iPhone",
+      "retweetCount": 8,
+      "replyCount": 14,
+      "likeCount": 72,
+      "quoteCount": 2,
+      "viewCount": 9740,
+      "createdAt": "Thu Jun 19 01:51:03 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 4,
+      "isReply": true,
+      "inReplyToId": "1935506449654022320",
+      "conversationId": "1935506449654022320",
+      "inReplyToUserId": "22",
+      "inReplyToUsername": "rabble",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "22",
+            "indices": [
+              0,
+              7
+            ],
+            "name": "rabble",
+            "screen_name": "rabble"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935432029169910178",
+      "url": "https://x.com/jack/status/1935432029169910178",
+      "twitterUrl": "https://twitter.com/jack/status/1935432029169910178",
+      "text": "@OpenRouterAI thank you for that incredibly simple api",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 5,
+      "likeCount": 34,
+      "quoteCount": 3,
+      "viewCount": 5032,
+      "createdAt": "Wed Jun 18 20:18:48 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 5,
+      "isReply": true,
+      "inReplyToId": "1935422326775947583",
+      "conversationId": "1935420580364198185",
+      "inReplyToUserId": "1681349314797240320",
+      "inReplyToUsername": "OpenRouterAI",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1681349314797240320",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "OpenRouter",
+            "screen_name": "OpenRouterAI"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935431635085803965",
+      "url": "https://x.com/jack/status/1935431635085803965",
+      "twitterUrl": "https://twitter.com/jack/status/1935431635085803965",
+      "text": "@tillstr__g_l @OpenRouterAI they are great",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 2,
+      "likeCount": 16,
+      "quoteCount": 1,
+      "viewCount": 1119,
+      "createdAt": "Wed Jun 18 20:17:15 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": true,
+      "inReplyToId": "1935429410951450823",
+      "conversationId": "1935420580364198185",
+      "inReplyToUserId": "866951614468415488",
+      "inReplyToUsername": "tillstr__g_l",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "866951614468415488",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "till",
+            "screen_name": "tillstr__g_l"
+          },
+          {
+            "id_str": "1681349314797240320",
+            "indices": [
+              14,
+              27
+            ],
+            "name": "OpenRouter",
+            "screen_name": "OpenRouterAI"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935431369519153400",
+      "url": "https://x.com/jack/status/1935431369519153400",
+      "twitterUrl": "https://twitter.com/jack/status/1935431369519153400",
+      "text": "on windows now",
+      "source": "Twitter for iPhone",
+      "retweetCount": 48,
+      "replyCount": 62,
+      "likeCount": 424,
+      "quoteCount": 9,
+      "viewCount": 165220,
+      "createdAt": "Wed Jun 18 20:16:11 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 50,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1935431369519153400",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1935383184889229369",
+        "url": "https://x.com/blockopensource/status/1935383184889229369",
+        "twitterUrl": "https://twitter.com/blockopensource/status/1935383184889229369",
+        "text": "We've heard you all loud and clear! Goose v1.0.29 introduces Desktop for Windows!!!! 🎉\n\nThis was definitely a community effort. Thank you all for the feedback, pull requests, and constant reminders 🤭\n\nEnjoy! ❤️",
+        "source": "Twitter for iPhone",
+        "retweetCount": 8,
+        "replyCount": 5,
+        "likeCount": 91,
+        "quoteCount": 4,
+        "viewCount": 174394,
+        "createdAt": "Wed Jun 18 17:04:43 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 32,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1935383184889229369",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "blockopensource",
+          "url": "https://x.com/blockopensource",
+          "twitterUrl": "https://twitter.com/blockopensource",
+          "id": "1881802944313430016",
+          "name": "Block Open Source",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1924837032104275968/vN0eFFiS_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1881802944313430016/1737564724",
+          "description": "",
+          "location": "",
+          "followers": 5512,
+          "following": 8,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 21 20:37:49 +0000 2025",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 179,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 105,
+          "statusesCount": 228,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Our vision is to nurture a diverse and vibrant open source ecosystem that removes barriers to technology and fosters economic opportunities for all.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "block.xyz/open-source",
+                    "expanded_url": "https://block.xyz/open-source",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Gff1JRzCho"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1935142949198741877",
+          "url": "",
+          "twitterUrl": "",
+          "text": "",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "viewCount": 0,
+          "createdAt": "",
+          "lang": "",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {},
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935420580364198185",
+      "url": "https://x.com/jack/status/1935420580364198185",
+      "twitterUrl": "https://twitter.com/jack/status/1935420580364198185",
+      "text": "goose PR #4. real-time cost tracking for all models, based on @OpenRouterAI api: https://t.co/DNmvLfO720 https://t.co/eq2nCC4DzO",
+      "source": "Twitter for iPhone",
+      "retweetCount": 37,
+      "replyCount": 46,
+      "likeCount": 371,
+      "quoteCount": 12,
+      "viewCount": 96790,
+      "createdAt": "Wed Jun 18 19:33:19 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 60,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1935420580364198185",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/eq2nCC4DzO",
+            "expanded_url": "https://twitter.com/jack/status/1935420580364198185/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1935420370170904576",
+            "indices": [
+              105,
+              128
+            ],
+            "media_key": "3_1935420370170904576",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrb/pKHF4AACgACGtv+w3eWoSkAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtv+kocXgAAKAAIa2/7Dd5ahKQAA",
+                "media_key": "3_1935420370170904576"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gtv-kocXgAAa8bs.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 414,
+                  "w": 739,
+                  "x": 616,
+                  "y": 0
+                },
+                {
+                  "h": 414,
+                  "w": 414,
+                  "x": 778,
+                  "y": 0
+                },
+                {
+                  "h": 414,
+                  "w": 363,
+                  "x": 804,
+                  "y": 0
+                },
+                {
+                  "h": 414,
+                  "w": 207,
+                  "x": 882,
+                  "y": 0
+                },
+                {
+                  "h": 414,
+                  "w": 1582,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 414,
+              "width": 1582
+            },
+            "sizes": {
+              "large": {
+                "h": 414,
+                "w": 1582
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/eq2nCC4DzO"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/block/goose/pu…",
+            "expanded_url": "https://github.com/block/goose/pull/2992",
+            "indices": [
+              81,
+              104
+            ],
+            "url": "https://t.co/DNmvLfO720"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1681349314797240320",
+            "indices": [
+              62,
+              75
+            ],
+            "name": "OpenRouter",
+            "screen_name": "OpenRouterAI"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935102425779814444",
+      "url": "https://x.com/jack/status/1935102425779814444",
+      "twitterUrl": "https://twitter.com/jack/status/1935102425779814444",
+      "text": "my 3rd PR for goose, add @xai as a provider and @grok models: https://t.co/zwpPqm9AID",
+      "source": "Twitter for iPhone",
+      "retweetCount": 105,
+      "replyCount": 121,
+      "likeCount": 1201,
+      "quoteCount": 30,
+      "viewCount": 159554,
+      "createdAt": "Tue Jun 17 22:29:05 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 193,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1935102425779814444",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 200,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=400x400",
+                "width": 400
+              }
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "Add xAI Provider Support for Grok Models Summary This PR adds comprehensive support for xAI's Grok models to Goose, enabling users to interact with models like grok-3, grok-3-mini, and grok..."
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "github.com"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 300,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=600x600",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "user_value": {
+                "id_str": "13334762"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 72,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=144x144",
+                "width": 144
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_alt_text",
+            "value": {
+              "string_value": "Add xAI Provider Support for Grok Models Summary This PR adds comprehensive support for xAI's Grok models to Goose, enabling users to interact with models like grok-3, grok-3-mini, and grok-3-f..."
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "github.com"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_alt_text",
+            "value": {
+              "string_value": "Add xAI Provider Support for Grok Models Summary This PR adds comprehensive support for xAI's Grok models to Goose, enabling users to interact with models like grok-3, grok-3-mini, and grok-3-f..."
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 91.3,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 3.91,
+                    "rgb": {
+                      "blue": 123,
+                      "green": 118,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.43,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 165,
+                      "red": 221
+                    }
+                  },
+                  {
+                    "percentage": 1.31,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 120,
+                      "red": 49
+                    }
+                  },
+                  {
+                    "percentage": 0.32,
+                    "rgb": {
+                      "blue": 199,
+                      "green": 234,
+                      "red": 188
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "Add xAI Provider Support for Grok Models by jackjackbits · Pull Request #2976 · block/goose"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 91.3,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 3.91,
+                    "rgb": {
+                      "blue": 123,
+                      "green": 118,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.43,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 165,
+                      "red": 221
+                    }
+                  },
+                  {
+                    "percentage": 1.31,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 120,
+                      "red": 49
+                    }
+                  },
+                  {
+                    "percentage": 0.32,
+                    "rgb": {
+                      "blue": 199,
+                      "green": 234,
+                      "red": 188
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 91.3,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 3.91,
+                    "rgb": {
+                      "blue": 123,
+                      "green": 118,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.43,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 165,
+                      "red": 221
+                    }
+                  },
+                  {
+                    "percentage": 1.31,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 120,
+                      "red": 49
+                    }
+                  },
+                  {
+                    "percentage": 0.32,
+                    "rgb": {
+                      "blue": 199,
+                      "green": 234,
+                      "red": 188
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/zwpPqm9AID"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1935102257428615168/1y3ghseX?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "iPhone",
+              "version": "13"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/zwpPqm9AID",
+        "user_refs_results": [
+          {
+            "rest_id": "13334762",
+            "result": {
+              "__typename": "User",
+              "action_counts": {
+                "favorites_count": 8176
+              },
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png"
+              },
+              "banner": {
+                "image_url": "https://pbs.twimg.com/profile_banners/13334762/1747774520"
+              },
+              "core": {
+                "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+                "name": "GitHub",
+                "screen_name": "github"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "exclusive_tweet_following": false,
+              "identity_profile_labels_highlighted_label": {},
+              "location": {
+                "location": "San Francisco, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "notifications_settings": {},
+              "pinned_items": {},
+              "privacy": {},
+              "private_super_following": false,
+              "profile_bio": {
+                "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "github.com",
+                        "expanded_url": "http://github.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/bbJgfyzcJR"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profile_image_shape": "Square",
+              "profile_metadata": {
+                "profile_interstitial_type": "",
+                "profile_link_color": "981CEB"
+              },
+              "profile_translation": {
+                "translator_type_enum": "None"
+              },
+              "properties": {
+                "has_extended_profile": true
+              },
+              "relationship_counts": {
+                "followers": 2626201,
+                "following": 328
+              },
+              "relationship_perspectives": {},
+              "rest_id": "13334762",
+              "super_follow_eligible": false,
+              "super_followed_by": false,
+              "super_following": false,
+              "tweet_counts": {
+                "media_tweets": 2665,
+                "tweets": 9741
+              },
+              "website": {
+                "url": "https://t.co/bbJgfyzcJR"
+              },
+              "verification": {
+                "is_blue_verified": true,
+                "verified_type": "Business"
+              }
+            }
+          }
+        ]
+      },
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/block/goose/pu…",
+            "expanded_url": "https://github.com/block/goose/pull/2976",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/zwpPqm9AID"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1661523610111193088",
+            "indices": [
+              25,
+              29
+            ],
+            "name": "xAI",
+            "screen_name": "xai"
+          },
+          {
+            "id_str": "1720665183188922368",
+            "indices": [
+              48,
+              53
+            ],
+            "name": "Grok",
+            "screen_name": "grok"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935065743940259962",
+      "url": "https://x.com/jack/status/1935065743940259962",
+      "twitterUrl": "https://twitter.com/jack/status/1935065743940259962",
+      "text": "@jharohit @ollama claude 4 opus",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 23,
+      "quoteCount": 2,
+      "viewCount": 1454,
+      "createdAt": "Tue Jun 17 20:03:19 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 8,
+      "isReply": true,
+      "inReplyToId": "1935016501133873364",
+      "conversationId": "1934970176883081395",
+      "inReplyToUserId": "27409217",
+      "inReplyToUsername": "jharohit",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "27409217",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "Rohit Jha",
+            "screen_name": "jharohit"
+          },
+          {
+            "id_str": "1688410127378829312",
+            "indices": [
+              10,
+              17
+            ],
+            "name": "ollama",
+            "screen_name": "ollama"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935052132505293045",
+      "url": "https://x.com/jack/status/1935052132505293045",
+      "twitterUrl": "https://twitter.com/jack/status/1935052132505293045",
+      "text": "@rauchg all that matters",
+      "source": "Twitter for iPhone",
+      "retweetCount": 11,
+      "replyCount": 18,
+      "likeCount": 338,
+      "quoteCount": 5,
+      "viewCount": 48294,
+      "createdAt": "Tue Jun 17 19:09:14 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 25,
+      "isReply": true,
+      "inReplyToId": "1934984093705584851",
+      "conversationId": "1934984093705584851",
+      "inReplyToUserId": "15540222",
+      "inReplyToUsername": "rauchg",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "15540222",
+            "indices": [
+              0,
+              7
+            ],
+            "name": "Guillermo Rauch",
+            "screen_name": "rauchg"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1934970176883081395",
+      "url": "https://x.com/jack/status/1934970176883081395",
+      "twitterUrl": "https://twitter.com/jack/status/1934970176883081395",
+      "text": "my second PR to goose (1st was merged last week) adds this feature to the desktop app: https://t.co/JgAfTndSlI\n\nall vibe-coded with goose. \n\nworking on an autopilot mode to make model selection dynamic based on task, inclusive of local @ollama models (almost ready to submit).",
+      "source": "Twitter for iPhone",
+      "retweetCount": 77,
+      "replyCount": 69,
+      "likeCount": 668,
+      "quoteCount": 16,
+      "viewCount": 197612,
+      "createdAt": "Tue Jun 17 13:43:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 193,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1934970176883081395",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 200,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=400x400",
+                "width": 400
+              }
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "Summary This PR implements a comprehensive feature for configuring and monitoring different AI models for planning (lead) and execution (worker) phases in the Goose GUI, with real-time display of t..."
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "github.com"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 300,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=600x600",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "user_value": {
+                "id_str": "13334762"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 72,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=144x144",
+                "width": 144
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_alt_text",
+            "value": {
+              "string_value": "Summary This PR implements a comprehensive feature for configuring and monitoring different AI models for planning (lead) and execution (worker) phases in the Goose GUI, with real-time display of t..."
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "github.com"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_alt_text",
+            "value": {
+              "string_value": "Summary This PR implements a comprehensive feature for configuring and monitoring different AI models for planning (lead) and execution (worker) phases in the Goose GUI, with real-time display of t..."
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 90.19,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 4.96,
+                    "rgb": {
+                      "blue": 122,
+                      "green": 118,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.42,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 165,
+                      "red": 221
+                    }
+                  },
+                  {
+                    "percentage": 1.29,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 120,
+                      "red": 49
+                    }
+                  },
+                  {
+                    "percentage": 0.33,
+                    "rgb": {
+                      "blue": 194,
+                      "green": 233,
+                      "red": 183
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "feat: Add lead-worker model selection and real-time model display in GUI by jackjackbits · Pull..."
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 90.19,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 4.96,
+                    "rgb": {
+                      "blue": 122,
+                      "green": 118,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.42,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 165,
+                      "red": 221
+                    }
+                  },
+                  {
+                    "percentage": 1.29,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 120,
+                      "red": 49
+                    }
+                  },
+                  {
+                    "percentage": 0.33,
+                    "rgb": {
+                      "blue": 194,
+                      "green": 233,
+                      "red": 183
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 90.19,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 4.96,
+                    "rgb": {
+                      "blue": 122,
+                      "green": 118,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.42,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 165,
+                      "red": 221
+                    }
+                  },
+                  {
+                    "percentage": 1.29,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 120,
+                      "red": 49
+                    }
+                  },
+                  {
+                    "percentage": 0.33,
+                    "rgb": {
+                      "blue": 194,
+                      "green": 233,
+                      "red": 183
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/JgAfTndSlI"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1934970179961675776/Dzi_RySA?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "iPhone",
+              "version": "13"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/JgAfTndSlI",
+        "user_refs_results": [
+          {
+            "rest_id": "13334762",
+            "result": {
+              "__typename": "User",
+              "action_counts": {
+                "favorites_count": 8176
+              },
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png"
+              },
+              "banner": {
+                "image_url": "https://pbs.twimg.com/profile_banners/13334762/1747774520"
+              },
+              "core": {
+                "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+                "name": "GitHub",
+                "screen_name": "github"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "exclusive_tweet_following": false,
+              "identity_profile_labels_highlighted_label": {},
+              "location": {
+                "location": "San Francisco, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "notifications_settings": {},
+              "pinned_items": {},
+              "privacy": {},
+              "private_super_following": false,
+              "profile_bio": {
+                "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "github.com",
+                        "expanded_url": "http://github.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/bbJgfyzcJR"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profile_image_shape": "Square",
+              "profile_metadata": {
+                "profile_interstitial_type": "",
+                "profile_link_color": "981CEB"
+              },
+              "profile_translation": {
+                "translator_type_enum": "None"
+              },
+              "properties": {
+                "has_extended_profile": true
+              },
+              "relationship_counts": {
+                "followers": 2626201,
+                "following": 328
+              },
+              "relationship_perspectives": {},
+              "rest_id": "13334762",
+              "super_follow_eligible": false,
+              "super_followed_by": false,
+              "super_following": false,
+              "tweet_counts": {
+                "media_tweets": 2665,
+                "tweets": 9741
+              },
+              "website": {
+                "url": "https://t.co/bbJgfyzcJR"
+              },
+              "verification": {
+                "is_blue_verified": true,
+                "verified_type": "Business"
+              }
+            }
+          }
+        ]
+      },
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/block/goose/pu…",
+            "expanded_url": "https://github.com/block/goose/pull/2964",
+            "indices": [
+              87,
+              110
+            ],
+            "url": "https://t.co/JgAfTndSlI"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1688410127378829312",
+            "indices": [
+              236,
+              243
+            ],
+            "name": "ollama",
+            "screen_name": "ollama"
+          }
+        ]
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1934652207049167015",
+        "url": "https://x.com/blockopensource/status/1934652207049167015",
+        "twitterUrl": "https://twitter.com/blockopensource/status/1934652207049167015",
+        "text": "Goose just got smarter.\n\nWe now support an automatic multi-modal flow that utilizes a lead model for planning and a faster model for execution. It's an easy way to save on cost without sacrificing quality.\n\nhttps://t.co/1IXeQGqGZL",
+        "source": "Twitter for iPhone",
+        "retweetCount": 21,
+        "replyCount": 5,
+        "likeCount": 160,
+        "quoteCount": 10,
+        "viewCount": 366204,
+        "createdAt": "Mon Jun 16 16:40:04 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 86,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1934652207049167015",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "blockopensource",
+          "url": "https://x.com/blockopensource",
+          "twitterUrl": "https://twitter.com/blockopensource",
+          "id": "1881802944313430016",
+          "name": "Block Open Source",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1924837032104275968/vN0eFFiS_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1881802944313430016/1737564724",
+          "description": "",
+          "location": "",
+          "followers": 5512,
+          "following": 8,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 21 20:37:49 +0000 2025",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 179,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 105,
+          "statusesCount": 228,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Our vision is to nurture a diverse and vibrant open source ecosystem that removes barriers to technology and fosters economic opportunities for all.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "block.xyz/open-source",
+                    "expanded_url": "https://block.xyz/open-source",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Gff1JRzCho"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "height": 147,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=280x150",
+                  "width": 280
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "How Goose uses multiple LLMs within a single task, optimizing for speed, cost, and reliability in AI agent workflows"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "block.github.io"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=600x600",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "height": 76,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=144x144",
+                  "width": 144
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "block.github.io"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 41.55,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 54,
+                        "red": 3
+                      }
+                    },
+                    {
+                      "percentage": 29.05,
+                      "rgb": {
+                        "blue": 18,
+                        "green": 185,
+                        "red": 236
+                      }
+                    },
+                    {
+                      "percentage": 6.95,
+                      "rgb": {
+                        "blue": 219,
+                        "green": 212,
+                        "red": 205
+                      }
+                    },
+                    {
+                      "percentage": 3.84,
+                      "rgb": {
+                        "blue": 53,
+                        "green": 53,
+                        "red": 53
+                      }
+                    },
+                    {
+                      "percentage": 3.53,
+                      "rgb": {
+                        "blue": 43,
+                        "green": 128,
+                        "red": 148
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "Treating LLMs Like Tools in a Toolbox: A Multi-Model Approach to Smarter AI Agents"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 41.55,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 54,
+                        "red": 3
+                      }
+                    },
+                    {
+                      "percentage": 29.05,
+                      "rgb": {
+                        "blue": 18,
+                        "green": 185,
+                        "red": 236
+                      }
+                    },
+                    {
+                      "percentage": 6.95,
+                      "rgb": {
+                        "blue": 219,
+                        "green": 212,
+                        "red": 205
+                      }
+                    },
+                    {
+                      "percentage": 3.84,
+                      "rgb": {
+                        "blue": 53,
+                        "green": 53,
+                        "red": 53
+                      }
+                    },
+                    {
+                      "percentage": 3.53,
+                      "rgb": {
+                        "blue": 43,
+                        "green": 128,
+                        "red": 148
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 41.55,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 54,
+                        "red": 3
+                      }
+                    },
+                    {
+                      "percentage": 29.05,
+                      "rgb": {
+                        "blue": 18,
+                        "green": 185,
+                        "red": 236
+                      }
+                    },
+                    {
+                      "percentage": 6.95,
+                      "rgb": {
+                        "blue": 219,
+                        "green": 212,
+                        "red": 205
+                      }
+                    },
+                    {
+                      "percentage": 3.84,
+                      "rgb": {
+                        "blue": 53,
+                        "green": 53,
+                        "red": 53
+                      }
+                    },
+                    {
+                      "percentage": 3.53,
+                      "rgb": {
+                        "blue": 43,
+                        "green": 128,
+                        "red": 148
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/1IXeQGqGZL"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/1IXeQGqGZL"
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "block.github.io/goose/blog/202…",
+              "expanded_url": "https://block.github.io/goose/blog/2025/06/16/multi-model-in-goose",
+              "indices": [
+                207,
+                230
+              ],
+              "url": "https://t.co/1IXeQGqGZL"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1934667703060512868",
+      "url": "https://x.com/jack/status/1934667703060512868",
+      "twitterUrl": "https://twitter.com/jack/status/1934667703060512868",
+      "text": "really great",
+      "source": "Twitter for iPhone",
+      "retweetCount": 38,
+      "replyCount": 60,
+      "likeCount": 447,
+      "quoteCount": 6,
+      "viewCount": 161951,
+      "createdAt": "Mon Jun 16 17:41:39 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 48,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1934667703060512868",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1934652207049167015",
+        "url": "https://x.com/blockopensource/status/1934652207049167015",
+        "twitterUrl": "https://twitter.com/blockopensource/status/1934652207049167015",
+        "text": "Goose just got smarter.\n\nWe now support an automatic multi-modal flow that utilizes a lead model for planning and a faster model for execution. It's an easy way to save on cost without sacrificing quality.\n\nhttps://t.co/1IXeQGqGZL",
+        "source": "Twitter for iPhone",
+        "retweetCount": 21,
+        "replyCount": 5,
+        "likeCount": 160,
+        "quoteCount": 10,
+        "viewCount": 366204,
+        "createdAt": "Mon Jun 16 16:40:04 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 86,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1934652207049167015",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "blockopensource",
+          "url": "https://x.com/blockopensource",
+          "twitterUrl": "https://twitter.com/blockopensource",
+          "id": "1881802944313430016",
+          "name": "Block Open Source",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1924837032104275968/vN0eFFiS_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1881802944313430016/1737564724",
+          "description": "",
+          "location": "",
+          "followers": 5512,
+          "following": 8,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 21 20:37:49 +0000 2025",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 179,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 105,
+          "statusesCount": 228,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Our vision is to nurture a diverse and vibrant open source ecosystem that removes barriers to technology and fosters economic opportunities for all.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "block.xyz/open-source",
+                    "expanded_url": "https://block.xyz/open-source",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Gff1JRzCho"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "height": 147,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=280x150",
+                  "width": 280
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "How Goose uses multiple LLMs within a single task, optimizing for speed, cost, and reliability in AI agent workflows"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "block.github.io"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=600x600",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "height": 76,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=144x144",
+                  "width": 144
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "block.github.io"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 41.55,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 54,
+                        "red": 3
+                      }
+                    },
+                    {
+                      "percentage": 29.05,
+                      "rgb": {
+                        "blue": 18,
+                        "green": 185,
+                        "red": 236
+                      }
+                    },
+                    {
+                      "percentage": 6.95,
+                      "rgb": {
+                        "blue": 219,
+                        "green": 212,
+                        "red": 205
+                      }
+                    },
+                    {
+                      "percentage": 3.84,
+                      "rgb": {
+                        "blue": 53,
+                        "green": 53,
+                        "red": 53
+                      }
+                    },
+                    {
+                      "percentage": 3.53,
+                      "rgb": {
+                        "blue": 43,
+                        "green": 128,
+                        "red": 148
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "Treating LLMs Like Tools in a Toolbox: A Multi-Model Approach to Smarter AI Agents"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 41.55,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 54,
+                        "red": 3
+                      }
+                    },
+                    {
+                      "percentage": 29.05,
+                      "rgb": {
+                        "blue": 18,
+                        "green": 185,
+                        "red": 236
+                      }
+                    },
+                    {
+                      "percentage": 6.95,
+                      "rgb": {
+                        "blue": 219,
+                        "green": 212,
+                        "red": 205
+                      }
+                    },
+                    {
+                      "percentage": 3.84,
+                      "rgb": {
+                        "blue": 53,
+                        "green": 53,
+                        "red": 53
+                      }
+                    },
+                    {
+                      "percentage": 3.53,
+                      "rgb": {
+                        "blue": 43,
+                        "green": 128,
+                        "red": 148
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 41.55,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 54,
+                        "red": 3
+                      }
+                    },
+                    {
+                      "percentage": 29.05,
+                      "rgb": {
+                        "blue": 18,
+                        "green": 185,
+                        "red": 236
+                      }
+                    },
+                    {
+                      "percentage": 6.95,
+                      "rgb": {
+                        "blue": 219,
+                        "green": 212,
+                        "red": 205
+                      }
+                    },
+                    {
+                      "percentage": 3.84,
+                      "rgb": {
+                        "blue": 53,
+                        "green": 53,
+                        "red": 53
+                      }
+                    },
+                    {
+                      "percentage": 3.53,
+                      "rgb": {
+                        "blue": 43,
+                        "green": 128,
+                        "red": 148
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/1IXeQGqGZL"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/card_img/1936989706299813888/MnBkxTMP?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/1IXeQGqGZL"
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "block.github.io/goose/blog/202…",
+              "expanded_url": "https://block.github.io/goose/blog/2025/06/16/multi-model-in-goose",
+              "indices": [
+                207,
+                230
+              ],
+              "url": "https://t.co/1IXeQGqGZL"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1934344064259981730",
+      "url": "https://x.com/jack/status/1934344064259981730",
+      "twitterUrl": "https://twitter.com/jack/status/1934344064259981730",
+      "text": "really cool. goose perception: https://t.co/JE1KxuHSWa",
+      "source": "Twitter for iPhone",
+      "retweetCount": 63,
+      "replyCount": 69,
+      "likeCount": 500,
+      "quoteCount": 18,
+      "viewCount": 131063,
+      "createdAt": "Sun Jun 15 20:15:37 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 361,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1934344064259981730",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 200,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=400x400",
+                "width": 400
+              }
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "agents watching, listening, learning and acting. Contribute to michaelneale/goose-perception development by creating an account on GitHub."
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "github.com"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 300,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=600x600",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "user_value": {
+                "id_str": "13334762"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 72,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=144x144",
+                "width": 144
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_alt_text",
+            "value": {
+              "string_value": "agents watching, listening, learning and acting. Contribute to michaelneale/goose-perception development by creating an account on GitHub."
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "github.com"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_alt_text",
+            "value": {
+              "string_value": "agents watching, listening, learning and acting. Contribute to michaelneale/goose-perception development by creating an account on GitHub."
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 90.84,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 4.17,
+                    "rgb": {
+                      "blue": 166,
+                      "green": 115,
+                      "red": 53
+                    }
+                  },
+                  {
+                    "percentage": 2.5,
+                    "rgb": {
+                      "blue": 125,
+                      "green": 179,
+                      "red": 229
+                    }
+                  },
+                  {
+                    "percentage": 1.53,
+                    "rgb": {
+                      "blue": 129,
+                      "green": 124,
+                      "red": 120
+                    }
+                  },
+                  {
+                    "percentage": 0.24,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 224,
+                      "red": 137
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "GitHub - michaelneale/goose-perception: agents watching, listening, learning and acting"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 90.84,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 4.17,
+                    "rgb": {
+                      "blue": 166,
+                      "green": 115,
+                      "red": 53
+                    }
+                  },
+                  {
+                    "percentage": 2.5,
+                    "rgb": {
+                      "blue": 125,
+                      "green": 179,
+                      "red": 229
+                    }
+                  },
+                  {
+                    "percentage": 1.53,
+                    "rgb": {
+                      "blue": 129,
+                      "green": 124,
+                      "red": 120
+                    }
+                  },
+                  {
+                    "percentage": 0.24,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 224,
+                      "red": 137
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 90.84,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 4.17,
+                    "rgb": {
+                      "blue": 166,
+                      "green": 115,
+                      "red": 53
+                    }
+                  },
+                  {
+                    "percentage": 2.5,
+                    "rgb": {
+                      "blue": 125,
+                      "green": 179,
+                      "red": 229
+                    }
+                  },
+                  {
+                    "percentage": 1.53,
+                    "rgb": {
+                      "blue": 129,
+                      "green": 124,
+                      "red": 120
+                    }
+                  },
+                  {
+                    "percentage": 0.24,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 224,
+                      "red": 137
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/JE1KxuHSWa"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "url": "https://pbs.twimg.com/card_img/1936880768963526656/g5kBsenV?format=jpg&name=orig",
+                "width": 1200
+              }
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "iPhone",
+              "version": "13"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/JE1KxuHSWa",
+        "user_refs_results": [
+          {
+            "rest_id": "13334762",
+            "result": {
+              "__typename": "User",
+              "action_counts": {
+                "favorites_count": 8176
+              },
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png"
+              },
+              "banner": {
+                "image_url": "https://pbs.twimg.com/profile_banners/13334762/1747774520"
+              },
+              "core": {
+                "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+                "name": "GitHub",
+                "screen_name": "github"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "exclusive_tweet_following": false,
+              "identity_profile_labels_highlighted_label": {},
+              "location": {
+                "location": "San Francisco, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "notifications_settings": {},
+              "pinned_items": {},
+              "privacy": {},
+              "private_super_following": false,
+              "profile_bio": {
+                "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "github.com",
+                        "expanded_url": "http://github.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/bbJgfyzcJR"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profile_image_shape": "Square",
+              "profile_metadata": {
+                "profile_interstitial_type": "",
+                "profile_link_color": "981CEB"
+              },
+              "profile_translation": {
+                "translator_type_enum": "None"
+              },
+              "properties": {
+                "has_extended_profile": true
+              },
+              "relationship_counts": {
+                "followers": 2626201,
+                "following": 328
+              },
+              "relationship_perspectives": {},
+              "rest_id": "13334762",
+              "super_follow_eligible": false,
+              "super_followed_by": false,
+              "super_following": false,
+              "tweet_counts": {
+                "media_tweets": 2665,
+                "tweets": 9741
+              },
+              "website": {
+                "url": "https://t.co/bbJgfyzcJR"
+              },
+              "verification": {
+                "is_blue_verified": true,
+                "verified_type": "Business"
+              }
+            }
+          }
+        ]
+      },
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/michaelneale/g…",
+            "expanded_url": "https://github.com/michaelneale/goose-perception",
+            "indices": [
+              31,
+              54
+            ],
+            "url": "https://t.co/JE1KxuHSWa"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1933904161789399181",
+      "url": "https://x.com/jack/status/1933904161789399181",
+      "twitterUrl": "https://twitter.com/jack/status/1933904161789399181",
+      "text": "@Chad_Hurley best learning platform out there",
+      "source": "Twitter for iPhone",
+      "retweetCount": 27,
+      "replyCount": 41,
+      "likeCount": 691,
+      "quoteCount": 4,
+      "viewCount": 37267,
+      "createdAt": "Sat Jun 14 15:07:37 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 30,
+      "isReply": true,
+      "inReplyToId": "1933767784737202480",
+      "conversationId": "1933767784737202480",
+      "inReplyToUserId": "14749070",
+      "inReplyToUsername": "Chad_Hurley",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "14749070",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "Chad Hurley",
+            "screen_name": "Chad_Hurley"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1933842653604364652",
+      "url": "https://x.com/jack/status/1933842653604364652",
+      "twitterUrl": "https://twitter.com/jack/status/1933842653604364652",
+      "text": "@IckMaster yes, working on it.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 11,
+      "likeCount": 45,
+      "quoteCount": 1,
+      "viewCount": 8479,
+      "createdAt": "Sat Jun 14 11:03:12 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": true,
+      "inReplyToId": "1933194504942620806",
+      "conversationId": "1933194504942620806",
+      "inReplyToUserId": "1722054735593644032",
+      "inReplyToUsername": "IckMaster",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1722054735593644032",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "Sophisticated Investor",
+            "screen_name": "IckMaster"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1932850860335251558",
+      "url": "https://x.com/jack/status/1932850860335251558",
+      "twitterUrl": "https://twitter.com/jack/status/1932850860335251558",
+      "text": "https://t.co/Dfobg2nNKI",
+      "source": "Twitter for iPhone",
+      "retweetCount": 105,
+      "replyCount": 86,
+      "likeCount": 643,
+      "quoteCount": 21,
+      "viewCount": 118018,
+      "createdAt": "Wed Jun 11 17:22:10 +0000 2025",
+      "lang": "zxx",
+      "bookmarkCount": 279,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1932850860335251558",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": {
+        "binding_values": [
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "alt": "arXiv logo",
+                "height": 144,
+                "url": "https://pbs.twimg.com/card_img/1934498964952219648/vmdiDuH6?format=jpg&name=144x144_2",
+                "width": 144
+              }
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "Today's AI systems have human-designed, fixed architectures and cannot autonomously and continuously improve themselves. The advance of AI could itself be automated. If done safely, that would..."
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "arxiv.org"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "alt": "arXiv logo",
+                "height": 420,
+                "url": "https://pbs.twimg.com/card_img/1934498964952219648/vmdiDuH6?format=jpg&name=420x420_2",
+                "width": 420
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "alt": "arXiv logo",
+                "height": 1000,
+                "url": "https://pbs.twimg.com/card_img/1934498964952219648/vmdiDuH6?format=jpg&name=orig",
+                "width": 1000
+              }
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "user_value": {
+                "id_str": "808633423300624384"
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "alt": "arXiv logo",
+                "height": 100,
+                "url": "https://pbs.twimg.com/card_img/1934498964952219648/vmdiDuH6?format=jpg&name=100x100_2",
+                "width": 100
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "alt": "arXiv logo",
+                "height": 1000,
+                "url": "https://pbs.twimg.com/card_img/1934498964952219648/vmdiDuH6?format=png&name=2048x2048_2_exp",
+                "width": 1000
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_alt_text",
+            "value": {
+              "string_value": "arXiv logo"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "arxiv.org"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 94.17,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 4.33,
+                    "rgb": {
+                      "blue": 105,
+                      "green": 116,
+                      "red": 124
+                    }
+                  },
+                  {
+                    "percentage": 1.26,
+                    "rgb": {
+                      "blue": 46,
+                      "green": 21,
+                      "red": 170
+                    }
+                  },
+                  {
+                    "percentage": 0.23,
+                    "rgb": {
+                      "blue": 131,
+                      "green": 116,
+                      "red": 203
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/Dfobg2nNKI"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "iPhone",
+              "version": "13"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/Dfobg2nNKI",
+        "user_refs_results": [
+          {
+            "rest_id": "808633423300624384",
+            "result": {
+              "__typename": "User",
+              "action_counts": {
+                "favorites_count": 950
+              },
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1365352170267299840/IzvjKckL_normal.jpg"
+              },
+              "banner": {
+                "image_url": "https://pbs.twimg.com/profile_banners/808633423300624384/1481635469"
+              },
+              "core": {
+                "created_at": "Tue Dec 13 11:23:26 +0000 2016",
+                "name": "arXiv.org",
+                "screen_name": "arxiv"
+              },
+              "dm_permissions": {
+                "can_dm": true
+              },
+              "exclusive_tweet_following": false,
+              "identity_profile_labels_highlighted_label": {},
+              "location": {
+                "location": "Ithaca, NY"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "notifications_settings": {},
+              "pinned_items": {},
+              "privacy": {},
+              "private_super_following": false,
+              "profile_bio": {
+                "description": "News from https://t.co/enurGFxpcS, a free distribution service and an open archive for scholarly articles.\n\nFor help with arXiv, see https://t.co/LcWuhM0BOl",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "arXiv.org",
+                        "expanded_url": "http://arXiv.org",
+                        "indices": [
+                          10,
+                          33
+                        ],
+                        "url": "https://t.co/enurGFxpcS"
+                      },
+                      {
+                        "display_url": "arxiv.org/help",
+                        "expanded_url": "https://arxiv.org/help",
+                        "indices": [
+                          133,
+                          156
+                        ],
+                        "url": "https://t.co/LcWuhM0BOl"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "arxiv.org",
+                        "expanded_url": "https://arxiv.org/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/DHMkdi4lF9"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profile_metadata": {
+                "profile_interstitial_type": "",
+                "profile_link_color": "ABB8C2"
+              },
+              "profile_translation": {
+                "translator_type_enum": "None"
+              },
+              "properties": {
+                "has_extended_profile": true
+              },
+              "relationship_counts": {
+                "followers": 40609,
+                "following": 187
+              },
+              "relationship_perspectives": {},
+              "rest_id": "808633423300624384",
+              "super_follow_eligible": false,
+              "super_followed_by": false,
+              "super_following": false,
+              "tweet_counts": {
+                "media_tweets": 108,
+                "tweets": 1104
+              },
+              "website": {
+                "url": "https://t.co/DHMkdi4lF9"
+              },
+              "verification": {
+                "is_blue_verified": false
+              }
+            }
+          }
+        ]
+      },
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "arxiv.org/abs/2505.22954",
+            "expanded_url": "https://arxiv.org/abs/2505.22954",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/Dfobg2nNKI"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930477885996900352",
+      "url": "https://x.com/jack/status/1930477885996900352",
+      "twitterUrl": "https://twitter.com/jack/status/1930477885996900352",
+      "text": "bitcoin",
+      "source": "Twitter for iPhone",
+      "retweetCount": 5220,
+      "replyCount": 1414,
+      "likeCount": 64411,
+      "quoteCount": 641,
+      "viewCount": 3476611,
+      "createdAt": "Thu Jun 05 04:12:49 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 1552,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1930477885996900352",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1340573003579617280",
+        "url": "https://x.com/elonmusk/status/1340573003579617280",
+        "twitterUrl": "https://twitter.com/elonmusk/status/1340573003579617280",
+        "text": "Bitcoin is my safe word",
+        "source": "Twitter for iPhone",
+        "retweetCount": 18265,
+        "replyCount": 6103,
+        "likeCount": 212383,
+        "quoteCount": 3621,
+        "viewCount": 0,
+        "createdAt": "Sun Dec 20 08:21:25 +0000 2020",
+        "lang": "en",
+        "bookmarkCount": 1098,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1340573003579617280",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "elonmusk",
+          "url": "https://x.com/elonmusk",
+          "twitterUrl": "https://twitter.com/elonmusk",
+          "id": "44196397",
+          "name": "Elon Musk",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/44196397/1739948056",
+          "description": "",
+          "location": "",
+          "followers": 221123179,
+          "following": 1146,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Tue Jun 02 20:12:29 +0000 2009",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 152770,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 3927,
+          "statusesCount": 80454,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1936876178356490546"
+          ],
+          "profile_bio": {
+            "description": "",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930396148499452064",
+      "url": "https://x.com/jack/status/1930396148499452064",
+      "twitterUrl": "https://twitter.com/jack/status/1930396148499452064",
+      "text": "bought with bitcoin @SteaknShake \n\nfull circle https://t.co/t4DZYqSy3o",
+      "source": "Twitter for iPhone",
+      "retweetCount": 589,
+      "replyCount": 587,
+      "likeCount": 7826,
+      "quoteCount": 137,
+      "viewCount": 513427,
+      "createdAt": "Wed Jun 04 22:48:01 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 320,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1930396148499452064",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t4DZYqSy3o",
+            "expanded_url": "https://twitter.com/jack/status/1930396148499452064/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1930396073408835584",
+            "indices": [
+              47,
+              70
+            ],
+            "media_key": "3_1930396073408835584",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrKJQBHV7AACgACGsolEcMXkKAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGsolAEdXsAAKAAIayiURwxeQoAAA",
+                "media_key": "3_1930396073408835584"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GsolAEdXsAAMo2i.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 860,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1536,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1751,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 256,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1536
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t4DZYqSy3o"
+          },
+          {
+            "display_url": "pic.twitter.com/t4DZYqSy3o",
+            "expanded_url": "https://twitter.com/jack/status/1930396148499452064/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 576,
+                    "w": 576,
+                    "x": 38,
+                    "y": 304
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 576,
+                    "w": 576,
+                    "x": 38,
+                    "y": 304
+                  }
+                ]
+              }
+            },
+            "id_str": "1930396073438167040",
+            "indices": [
+              47,
+              70
+            ],
+            "media_key": "3_1930396073438167040",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrKJQBJF0AACgACGsolEcMXkKAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGsolAEkXQAAKAAIayiURwxeQoAAA",
+                "media_key": "3_1930396073438167040"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GsolAEkXQAAxR52.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 860,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1536,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1751,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 153,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1536
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t4DZYqSy3o"
+          },
+          {
+            "display_url": "pic.twitter.com/t4DZYqSy3o",
+            "expanded_url": "https://twitter.com/jack/status/1930396148499452064/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1930396073413001216",
+            "indices": [
+              47,
+              70
+            ],
+            "media_key": "3_1930396073413001216",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrKJQBHl0AACgACGsolEcMXkKAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGsolAEeXQAAKAAIayiURwxeQoAAA",
+                "media_key": "3_1930396073413001216"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GsolAEeXQAASGTj.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 530,
+                  "w": 947,
+                  "x": 0,
+                  "y": 912
+                },
+                {
+                  "h": 947,
+                  "w": 947,
+                  "x": 0,
+                  "y": 704
+                },
+                {
+                  "h": 1080,
+                  "w": 947,
+                  "x": 0,
+                  "y": 637
+                },
+                {
+                  "h": 1894,
+                  "w": 947,
+                  "x": 0,
+                  "y": 154
+                },
+                {
+                  "h": 2048,
+                  "w": 947,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 947
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 947
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t4DZYqSy3o"
+          },
+          {
+            "display_url": "pic.twitter.com/t4DZYqSy3o",
+            "expanded_url": "https://twitter.com/jack/status/1930396148499452064/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1930396073442295808",
+            "indices": [
+              47,
+              70
+            ],
+            "media_key": "3_1930396073442295808",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrKJQBJVkAACgACGsolEcMXkKAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGsolAElWQAAKAAIayiURwxeQoAAA",
+                "media_key": "3_1930396073442295808"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GsolAElWQAAZ6e6.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 860,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 1188
+                },
+                {
+                  "h": 1536,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 512
+                },
+                {
+                  "h": 1751,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 297
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 512,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1536
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t4DZYqSy3o"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "567562934",
+            "indices": [
+              20,
+              32
+            ],
+            "name": "Steak 'n Shake",
+            "screen_name": "SteaknShake"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930268765784047638",
+      "url": "https://x.com/jack/status/1930268765784047638",
+      "twitterUrl": "https://twitter.com/jack/status/1930268765784047638",
+      "text": "@Netcoins never done them",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 23,
+      "likeCount": 127,
+      "quoteCount": 2,
+      "viewCount": 34276,
+      "createdAt": "Wed Jun 04 14:21:51 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": true,
+      "inReplyToId": "1930265820908732754",
+      "conversationId": "1930262645908615353",
+      "inReplyToUserId": "2542046377",
+      "inReplyToUsername": "Netcoins",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "2542046377",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "Netcoins",
+            "screen_name": "Netcoins"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930268566131036352",
+      "url": "https://x.com/jack/status/1930268566131036352",
+      "twitterUrl": "https://twitter.com/jack/status/1930268566131036352",
+      "text": "@cadeskywalker trends are useful",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 13,
+      "likeCount": 319,
+      "quoteCount": 1,
+      "viewCount": 32425,
+      "createdAt": "Wed Jun 04 14:21:03 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 6,
+      "isReply": true,
+      "inReplyToId": "1930265223031570458",
+      "conversationId": "1930262645908615353",
+      "inReplyToUserId": "467946992",
+      "inReplyToUsername": "cadeskywalker",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "467946992",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "cb 🌋⚡️",
+            "screen_name": "cadeskywalker"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930268416155193358",
+      "url": "https://x.com/jack/status/1930268416155193358",
+      "twitterUrl": "https://twitter.com/jack/status/1930268416155193358",
+      "text": "@sebastianbea more walking, better sleep, zero supplements or medications.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 8,
+      "replyCount": 36,
+      "likeCount": 406,
+      "quoteCount": 4,
+      "viewCount": 34698,
+      "createdAt": "Wed Jun 04 14:20:27 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 59,
+      "isReply": true,
+      "inReplyToId": "1930262869179834804",
+      "conversationId": "1930262645908615353",
+      "inReplyToUserId": "53924163",
+      "inReplyToUsername": "sebastianbea",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "53924163",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "Sebastian Pedro Bea, OLY",
+            "screen_name": "sebastianbea"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1930265495103484056",
+      "url": "https://x.com/jack/status/1930265495103484056",
+      "twitterUrl": "https://twitter.com/jack/status/1930265495103484056",
+      "text": "@martin__martian for me, yes",
+      "source": "Twitter for iPhone",
+      "retweetCount": 5,
+      "replyCount": 13,
+      "likeCount": 338,
+      "quoteCount": 1,
+      "viewCount": 80822,
+      "createdAt": "Wed Jun 04 14:08:51 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 35,
+      "isReply": true,
+      "inReplyToId": "1930264876896686120",
+      "conversationId": "1930261602202251446",
+      "inReplyToUserId": "1730799309266747392",
+      "inReplyToUsername": "martin__martian",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1730799309266747392",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Martin",
+            "screen_name": "martin__martian"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "meta": {}
+}
