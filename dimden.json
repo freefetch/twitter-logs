@@ -6,33 +6,145 @@
     "coverPicture": "https://pbs.twimg.com/profile_banners/1708130407663759360/1704249626",
     "description": "",
     "location": "Ukraїne",
-    "followers": 32580,
-    "following": 565,
+    "followers": 32624,
+    "following": 562,
     "createdAt": "Sat Sep 30 14:43:32 +0000 2023",
-    "bio": "イン　ター　ネ　ット　や　め　ろ　！\n\nWebsite: https://t.co/oPVSvAFgSd\nDonate: https://t.co/AccKvScJ8l\nDiscord: https://t.co/hWKgSmgNml\nBsky: https://t.co/bblrUokNYB"
+    "bio": "イン　ター　ネ　ット　や　め　ろ　！\n\nWebsite: https://t.co/oPVSvAFgSd\nDonate: https://t.co/AccKvScJ8l\nBsky: https://t.co/bblrUokNYB"
   },
   "tweets": [
     {
       "type": "tweet",
-      "id": "1933988690428149950",
-      "url": "https://x.com/dimden/status/1933988690428149950",
-      "twitterUrl": "https://twitter.com/dimden/status/1933988690428149950",
-      "text": "oomf is alive",
+      "id": "1936929622412640281",
+      "url": "https://x.com/dimden/status/1936929622412640281",
+      "twitterUrl": "https://twitter.com/dimden/status/1936929622412640281",
+      "text": "@ultrasquid yep it was it",
       "source": "Twitter for iPhone",
       "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 26,
+      "replyCount": 0,
+      "likeCount": 3,
       "quoteCount": 0,
-      "viewCount": 1141,
-      "createdAt": "Sat Jun 14 20:43:30 +0000 2025",
+      "viewCount": 30,
+      "createdAt": "Sun Jun 22 23:29:43 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1936927105872515319",
+      "conversationId": "1936922753988227544",
+      "inReplyToUserId": "85748909",
+      "inReplyToUsername": "ultrasquid",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "85748909",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "Ultrasquid 🦑🥔🔜 OffKai Expo",
+            "screen_name": "ultrasquid"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936922753988227544",
+      "url": "https://x.com/dimden/status/1936922753988227544",
+      "twitterUrl": "https://twitter.com/dimden/status/1936922753988227544",
+      "text": "ratybara or whatever this thing is https://t.co/r2xh1mQp3i",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 3,
+      "likeCount": 38,
+      "quoteCount": 0,
+      "viewCount": 1908,
+      "createdAt": "Sun Jun 22 23:02:25 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 1,
       "isReply": false,
       "inReplyToId": null,
-      "conversationId": "1933988690428149950",
+      "conversationId": "1936922753988227544",
       "inReplyToUserId": null,
       "inReplyToUsername": null,
-      "extendedEntities": {},
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/r2xh1mQp3i",
+            "expanded_url": "https://twitter.com/dimden/status/1936922753988227544/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936922731821359104",
+            "indices": [
+              35,
+              58
+            ],
+            "media_key": "3_1936922731821359104",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhVPZbl2AACgACGuFU+4TW8dgAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGuFU9luXYAAKAAIa4VT7hNbx2AAA",
+                "media_key": "3_1936922731821359104"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GuFU9luXYAAlrTu.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2258,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 1008,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 2653,
+                  "x": 1194,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 1512,
+                  "x": 1764,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3024,
+              "width": 4032
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/r2xh1mQp3i"
+          }
+        ]
+      },
       "card": null,
       "place": {},
       "entities": {},
@@ -41,29 +153,99 @@
     },
     {
       "type": "tweet",
-      "id": "1933866738505936943",
-      "url": "https://x.com/dimden/status/1933866738505936943",
-      "twitterUrl": "https://twitter.com/dimden/status/1933866738505936943",
-      "text": "@darek13524 theres suddenly 10x more of these in the last week https://t.co/rySHP2oGRi",
+      "id": "1936894251486380085",
+      "url": "https://x.com/dimden/status/1936894251486380085",
+      "twitterUrl": "https://twitter.com/dimden/status/1936894251486380085",
+      "text": "most important monkey in the zoo https://t.co/63CkAlQFsj",
       "source": "Twitter for iPhone",
       "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 5,
+      "replyCount": 0,
+      "likeCount": 19,
       "quoteCount": 0,
-      "viewCount": 236,
-      "createdAt": "Sat Jun 14 12:38:54 +0000 2025",
+      "viewCount": 1670,
+      "createdAt": "Sun Jun 22 21:09:09 +0000 2025",
       "lang": "en",
       "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1933850614112633243",
-      "conversationId": "1933850614112633243",
-      "inReplyToUserId": "3396908626",
-      "inReplyToUsername": "darek13524",
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936894251486380085",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
       "extendedEntities": {
         "media": [
           {
-            "display_url": "pic.twitter.com/rySHP2oGRi",
-            "expanded_url": "https://twitter.com/dimden/status/1933866738505936943/photo/1",
+            "display_url": "pic.twitter.com/63CkAlQFsj",
+            "expanded_url": "https://twitter.com/dimden/status/1936894251486380085/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936894211317481472",
+            "indices": [
+              33,
+              56
+            ],
+            "media_key": "3_1936894211317481472",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhOwXpFsAACgACGuE7D0NXgDUAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGuE7BekWwAAKAAIa4TsPQ1eANQAA",
+                "media_key": "3_1936894211317481472"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GuE7BekWwAA9sY1.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1693,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 1069
+                },
+                {
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 403
+                },
+                {
+                  "h": 3447,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 192
+                },
+                {
+                  "h": 4032,
+                  "w": 2016,
+                  "x": 504,
+                  "y": 0
+                },
+                {
+                  "h": 4032,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4032,
+              "width": 3024
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/63CkAlQFsj"
+          },
+          {
+            "display_url": "pic.twitter.com/63CkAlQFsj",
+            "expanded_url": "https://twitter.com/dimden/status/1936894251486380085/photo/1",
             "ext_media_availability": {
               "status": "Available"
             },
@@ -71,195 +253,83 @@
               "large": {
                 "faces": [
                   {
-                    "h": 92,
-                    "w": 92,
-                    "x": 626,
-                    "y": 81
+                    "h": 105,
+                    "w": 105,
+                    "x": 809,
+                    "y": 845
                   }
                 ]
               },
               "orig": {
                 "faces": [
                   {
-                    "h": 92,
-                    "w": 92,
-                    "x": 626,
-                    "y": 81
+                    "h": 208,
+                    "w": 208,
+                    "x": 1594,
+                    "y": 1665
                   }
                 ]
               }
             },
-            "id_str": "1933866732965199872",
+            "id_str": "1936894230774890496",
             "indices": [
-              63,
-              86
+              33,
+              56
             ],
-            "media_key": "3_1933866732965199872",
+            "media_key": "3_1936894230774890496",
             "media_results": {
-              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrWeYwtVgAACgACGtZ5jXeW8C8AAA==",
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhOwpw10AACgACGuE7D0NXgDUAAA==",
               "result": {
                 "__typename": "ApiMedia",
-                "id": "QXBpTWVkaWE6DAABCgABGtZ5jC1WAAAKAAIa1nmNd5bwLwAA",
-                "media_key": "3_1933866732965199872"
+                "id": "QXBpTWVkaWE6DAABCgABGuE7CnDXQAAKAAIa4TsPQ1eANQAA",
+                "media_key": "3_1936894230774890496"
               }
             },
-            "media_url_https": "https://pbs.twimg.com/media/GtZ5jC1WAAAMYFr.png",
+            "media_url_https": "https://pbs.twimg.com/media/GuE7CnDXQAAbf-c.jpg",
             "original_info": {
               "focus_rects": [
                 {
-                  "h": 428,
-                  "w": 765,
+                  "h": 1693,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 867
+                },
+                {
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 201
+                },
+                {
+                  "h": 3447,
+                  "w": 3024,
                   "x": 0,
                   "y": 0
                 },
                 {
-                  "h": 765,
-                  "w": 765,
-                  "x": 0,
+                  "h": 4032,
+                  "w": 2016,
+                  "x": 705,
                   "y": 0
                 },
                 {
-                  "h": 872,
-                  "w": 765,
-                  "x": 0,
-                  "y": 0
-                },
-                {
-                  "h": 977,
-                  "w": 489,
-                  "x": 0,
-                  "y": 0
-                },
-                {
-                  "h": 977,
-                  "w": 765,
+                  "h": 4032,
+                  "w": 3024,
                   "x": 0,
                   "y": 0
                 }
               ],
-              "height": 977,
-              "width": 765
+              "height": 4032,
+              "width": 3024
             },
             "sizes": {
               "large": {
-                "h": 977,
-                "w": 765
+                "h": 2048,
+                "w": 1536
               }
             },
             "type": "photo",
-            "url": "https://t.co/rySHP2oGRi"
-          }
-        ]
-      },
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "3396908626",
-            "indices": [
-              0,
-              11
-            ],
-            "name": "Daro ",
-            "screen_name": "darek13524"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1933624965649379742",
-      "url": "https://x.com/dimden/status/1933624965649379742",
-      "twitterUrl": "https://twitter.com/dimden/status/1933624965649379742",
-      "text": "the most unfunny tweet award https://t.co/unKIwiSkxj",
-      "source": "Twitter for iPhone",
-      "retweetCount": 77,
-      "replyCount": 37,
-      "likeCount": 1922,
-      "quoteCount": 5,
-      "viewCount": 24155,
-      "createdAt": "Fri Jun 13 20:38:11 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 76,
-      "isReply": false,
-      "inReplyToId": null,
-      "conversationId": "1933624965649379742",
-      "inReplyToUserId": null,
-      "inReplyToUsername": null,
-      "extendedEntities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/unKIwiSkxj",
-            "expanded_url": "https://twitter.com/dimden/status/1933624965649379742/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "features": {
-              "large": {},
-              "orig": {}
-            },
-            "id_str": "1933624961148567552",
-            "indices": [
-              29,
-              52
-            ],
-            "media_key": "3_1933624961148567552",
-            "media_results": {
-              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrVnahKFsAACgACGtWdqVZbsZ4AAA==",
-              "result": {
-                "__typename": "ApiMedia",
-                "id": "QXBpTWVkaWE6DAABCgABGtWdqEoWwAAKAAIa1Z2pVluxngAA",
-                "media_key": "3_1933624961148567552"
-              }
-            },
-            "media_url_https": "https://pbs.twimg.com/media/GtWdqEoWwAAHQYK.png",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 408,
-                  "w": 728,
-                  "x": 0,
-                  "y": 0
-                },
-                {
-                  "h": 443,
-                  "w": 443,
-                  "x": 0,
-                  "y": 0
-                },
-                {
-                  "h": 443,
-                  "w": 389,
-                  "x": 0,
-                  "y": 0
-                },
-                {
-                  "h": 443,
-                  "w": 222,
-                  "x": 16,
-                  "y": 0
-                },
-                {
-                  "h": 443,
-                  "w": 728,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 443,
-              "width": 728
-            },
-            "sizes": {
-              "large": {
-                "h": 443,
-                "w": 728
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/unKIwiSkxj"
+            "url": "https://t.co/63CkAlQFsj"
           }
         ]
       },
@@ -271,29 +341,159 @@
     },
     {
       "type": "tweet",
-      "id": "1933563443887362399",
-      "url": "https://x.com/dimden/status/1933563443887362399",
-      "twitterUrl": "https://twitter.com/dimden/status/1933563443887362399",
-      "text": "@eternalaira i also have this disabled which makes it all even more pointless https://t.co/LO849fDK3p",
+      "id": "1936893102322483626",
+      "url": "https://x.com/dimden/status/1936893102322483626",
+      "twitterUrl": "https://twitter.com/dimden/status/1936893102322483626",
+      "text": "cap of bara https://t.co/teG2zbHsLn",
       "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 17,
+      "retweetCount": 4,
+      "replyCount": 4,
+      "likeCount": 97,
       "quoteCount": 0,
-      "viewCount": 206,
-      "createdAt": "Fri Jun 13 16:33:43 +0000 2025",
+      "viewCount": 2215,
+      "createdAt": "Sun Jun 22 21:04:35 +0000 2025",
       "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1933557055962399209",
-      "conversationId": "1933542591569489969",
-      "inReplyToUserId": "1683474960071766019",
-      "inReplyToUsername": "eternalaira",
+      "bookmarkCount": 2,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936893102322483626",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
       "extendedEntities": {
         "media": [
           {
-            "display_url": "pic.twitter.com/LO849fDK3p",
-            "expanded_url": "https://twitter.com/dimden/status/1933563443887362399/photo/1",
+            "display_url": "pic.twitter.com/teG2zbHsLn",
+            "expanded_url": "https://twitter.com/dimden/status/1936893102322483626/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 89,
+                    "w": 89,
+                    "x": 683,
+                    "y": 1763
+                  },
+                  {
+                    "h": 155,
+                    "w": 155,
+                    "x": 529,
+                    "y": 1511
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 177,
+                    "w": 177,
+                    "x": 1346,
+                    "y": 3472
+                  },
+                  {
+                    "h": 307,
+                    "w": 307,
+                    "x": 1043,
+                    "y": 2976
+                  }
+                ]
+              }
+            },
+            "id_str": "1936893080763842560",
+            "indices": [
+              12,
+              35
+            ],
+            "media_key": "3_1936893080763842560",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhOf6u10AACgACGuE6A7PWAaoAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGuE5/q7XQAAKAAIa4ToDs9YBqgAA",
+                "media_key": "3_1936893080763842560"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GuE5_q7XQAA11qQ.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1693,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 1875
+                },
+                {
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 1008
+                },
+                {
+                  "h": 3447,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 585
+                },
+                {
+                  "h": 4032,
+                  "w": 2016,
+                  "x": 1008,
+                  "y": 0
+                },
+                {
+                  "h": 4032,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4032,
+              "width": 3024
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/teG2zbHsLn"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936892466944262517",
+      "url": "https://x.com/dimden/status/1936892466944262517",
+      "twitterUrl": "https://twitter.com/dimden/status/1936892466944262517",
+      "text": "floppa https://t.co/QsYJO8G5jp",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 34,
+      "quoteCount": 0,
+      "viewCount": 1598,
+      "createdAt": "Sun Jun 22 21:02:04 +0000 2025",
+      "lang": "sv",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936892466944262517",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QsYJO8G5jp",
+            "expanded_url": "https://twitter.com/dimden/status/1936892466944262517/photo/1",
             "ext_media_availability": {
               "status": "Available"
             },
@@ -301,104 +501,422 @@
               "large": {},
               "orig": {}
             },
-            "id_str": "1933563437071618052",
+            "id_str": "1936892449823088640",
             "indices": [
-              78,
-              101
+              7,
+              30
             ],
-            "media_key": "3_1933563437071618052",
+            "media_key": "3_1936892449823088640",
             "media_results": {
-              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrVZbOZVlAECgACGtVltS+WUV8AAA==",
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhOWvH12AACgACGuE5b8RXwXUAAA==",
               "result": {
                 "__typename": "ApiMedia",
-                "id": "QXBpTWVkaWE6DAABCgABGtVls5lWUAQKAAIa1WW1L5ZRXwAA",
-                "media_key": "3_1933563437071618052"
+                "id": "QXBpTWVkaWE6DAABCgABGuE5a8fXYAAKAAIa4TlvxFfBdQAA",
+                "media_key": "3_1936892449823088640"
               }
             },
-            "media_url_https": "https://pbs.twimg.com/media/GtVls5lWUAQpsJO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GuE5a8fXYAA_dF4.jpg",
             "original_info": {
               "focus_rects": [
                 {
-                  "h": 551,
-                  "w": 984,
+                  "h": 2258,
+                  "w": 4032,
                   "x": 0,
                   "y": 0
                 },
                 {
-                  "h": 551,
-                  "w": 551,
-                  "x": 76,
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 0,
                   "y": 0
                 },
                 {
-                  "h": 551,
-                  "w": 483,
-                  "x": 110,
+                  "h": 3024,
+                  "w": 2653,
+                  "x": 0,
                   "y": 0
                 },
                 {
-                  "h": 551,
-                  "w": 276,
-                  "x": 213,
+                  "h": 3024,
+                  "w": 1512,
+                  "x": 151,
                   "y": 0
                 },
                 {
-                  "h": 551,
-                  "w": 1080,
+                  "h": 3024,
+                  "w": 4032,
                   "x": 0,
                   "y": 0
                 }
               ],
-              "height": 551,
-              "width": 1080
+              "height": 3024,
+              "width": 4032
             },
             "sizes": {
               "large": {
-                "h": 551,
-                "w": 1080
+                "h": 1536,
+                "w": 2048
               }
             },
             "type": "photo",
-            "url": "https://t.co/LO849fDK3p"
+            "url": "https://t.co/QsYJO8G5jp"
           }
         ]
       },
       "card": null,
       "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1683474960071766019",
-            "indices": [
-              0,
-              12
-            ],
-            "name": "АiRА",
-            "screen_name": "eternalaira"
-          }
-        ]
-      },
+      "entities": {},
       "quoted_tweet": null,
       "retweeted_tweet": null
     },
     {
       "type": "tweet",
-      "id": "1933542591569489969",
-      "url": "https://x.com/dimden/status/1933542591569489969",
-      "twitterUrl": "https://twitter.com/dimden/status/1933542591569489969",
-      "text": "do you also always explain how you ended up solving the problem to chatgpt or are you normal",
+      "id": "1936892413219680688",
+      "url": "https://x.com/dimden/status/1936892413219680688",
+      "twitterUrl": "https://twitter.com/dimden/status/1936892413219680688",
+      "text": "https://t.co/xm3cBcgVUV",
       "source": "Twitter for iPhone",
-      "retweetCount": 4,
-      "replyCount": 22,
-      "likeCount": 227,
-      "quoteCount": 2,
-      "viewCount": 7143,
-      "createdAt": "Fri Jun 13 15:10:51 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 11,
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 43,
+      "quoteCount": 0,
+      "viewCount": 1579,
+      "createdAt": "Sun Jun 22 21:01:51 +0000 2025",
+      "lang": "zxx",
+      "bookmarkCount": 1,
       "isReply": false,
       "inReplyToId": null,
-      "conversationId": "1933542591569489969",
+      "conversationId": "1936892413219680688",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xm3cBcgVUV",
+            "expanded_url": "https://twitter.com/dimden/status/1936892413219680688/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 352,
+                    "w": 352,
+                    "x": 1293,
+                    "y": 675
+                  },
+                  {
+                    "h": 480,
+                    "w": 480,
+                    "x": 247,
+                    "y": 229
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 693,
+                    "w": 693,
+                    "x": 2547,
+                    "y": 1330
+                  },
+                  {
+                    "h": 945,
+                    "w": 945,
+                    "x": 488,
+                    "y": 452
+                  }
+                ]
+              }
+            },
+            "id_str": "1936892389513138176",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936892389513138176",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhOV29FpAACgACGuE5Y0IbsbAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGuE5Xb0WkAAKAAIa4TljQhuxsAAA",
+                "media_key": "3_1936892389513138176"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GuE5Xb0WkAA74i-.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2258,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 2653,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 1512,
+                  "x": 151,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3024,
+              "width": 4032
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xm3cBcgVUV"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936892165889626411",
+      "url": "https://x.com/dimden/status/1936892165889626411",
+      "twitterUrl": "https://twitter.com/dimden/status/1936892165889626411",
+      "text": "https://t.co/QQzigcWsvM",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 34,
+      "quoteCount": 0,
+      "viewCount": 1551,
+      "createdAt": "Sun Jun 22 21:00:52 +0000 2025",
+      "lang": "zxx",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936892165889626411",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QQzigcWsvM",
+            "expanded_url": "https://twitter.com/dimden/status/1936892165889626411/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 115,
+                    "w": 115,
+                    "x": 815,
+                    "y": 963
+                  },
+                  {
+                    "h": 133,
+                    "w": 133,
+                    "x": 577,
+                    "y": 129
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 228,
+                    "w": 228,
+                    "x": 1606,
+                    "y": 1897
+                  },
+                  {
+                    "h": 263,
+                    "w": 263,
+                    "x": 1137,
+                    "y": 255
+                  }
+                ]
+              }
+            },
+            "id_str": "1936892125188173824",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936892125188173824",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhOSAyF7AACgACGuE5KawWkSsAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGuE5IDIXsAAKAAIa4TkprBaRKwAA",
+                "media_key": "3_1936892125188173824"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GuE5IDIXsAA_MJl.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2258,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 181
+                },
+                {
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 403,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 2653,
+                  "x": 589,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 1512,
+                  "x": 1159,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3024,
+              "width": 4032
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QQzigcWsvM"
+          },
+          {
+            "display_url": "pic.twitter.com/QQzigcWsvM",
+            "expanded_url": "https://twitter.com/dimden/status/1936892165889626411/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936892150811074560",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936892150811074560",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrhOSYpViAACgACGuE5KawWkSsAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGuE5JilWIAAKAAIa4TkprBaRKwAA",
+                "media_key": "3_1936892150811074560"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GuE5JilWIAAz43o.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2258,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 3024,
+                  "x": 201,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 2653,
+                  "x": 387,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 1512,
+                  "x": 957,
+                  "y": 0
+                },
+                {
+                  "h": 3024,
+                  "w": 4032,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3024,
+              "width": 4032
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QQzigcWsvM"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936773279487770896",
+      "url": "https://x.com/dimden/status/1936773279487770896",
+      "twitterUrl": "https://twitter.com/dimden/status/1936773279487770896",
+      "text": "i will be saying \"i need to learn how to draw/make music\" for my entire life and then die without ever doing it",
+      "source": "Twitter for iPhone",
+      "retweetCount": 23,
+      "replyCount": 5,
+      "likeCount": 180,
+      "quoteCount": 2,
+      "viewCount": 3938,
+      "createdAt": "Sun Jun 22 13:08:27 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 5,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936773279487770896",
       "inReplyToUserId": null,
       "inReplyToUsername": null,
       "extendedEntities": {},
@@ -410,145 +928,1104 @@
     },
     {
       "type": "tweet",
-      "id": "1932019230800568671",
-      "url": "https://x.com/dimden/status/1932019230800568671",
-      "twitterUrl": "https://twitter.com/dimden/status/1932019230800568671",
-      "text": "there's a restaurant in my city called steak house and they don't serve steaks",
+      "id": "1936461337116172669",
+      "url": "https://x.com/dimden/status/1936461337116172669",
+      "twitterUrl": "https://twitter.com/dimden/status/1936461337116172669",
+      "text": "https://t.co/2AuN2YKNsh",
       "source": "Twitter for iPhone",
-      "retweetCount": 3,
-      "replyCount": 13,
-      "likeCount": 201,
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 31,
       "quoteCount": 0,
-      "viewCount": 4597,
-      "createdAt": "Mon Jun 09 10:17:34 +0000 2025",
-      "lang": "en",
+      "viewCount": 1818,
+      "createdAt": "Sat Jun 21 16:28:55 +0000 2025",
+      "lang": "zxx",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936461337116172669",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/2AuN2YKNsh",
+            "expanded_url": "https://twitter.com/dimden/status/1936461337116172669/video/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1936461165925703680",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "7_1936461165925703680",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARrfsSusVyAACgACGt+xU4gWYX0AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAADCgABGt+xK6xXIAAKAAIa37FTiBZhfQAA",
+                "media_key": "7_1936461165925703680"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1936461165925703680/pu/img/u52en2aGPT-lfOqI.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1080,
+              "width": 1920
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/2AuN2YKNsh",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 18667,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1936461165925703680/pu/pl/DiVRGab1AlXGyMcr.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1936461165925703680/pu/vid/avc1/480x270/xcw4Qo14rKm8g-Ja.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1936461165925703680/pu/vid/avc1/640x360/-_Cjo85KD1vRJcIA.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1936461165925703680/pu/vid/avc1/1280x720/6jFbQoO9iiUvweiK.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936461101199204430",
+      "url": "https://x.com/dimden/status/1936461101199204430",
+      "twitterUrl": "https://twitter.com/dimden/status/1936461101199204430",
+      "text": "https://t.co/4oqgTMEBLM",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 50,
+      "quoteCount": 0,
+      "viewCount": 1848,
+      "createdAt": "Sat Jun 21 16:27:58 +0000 2025",
+      "lang": "zxx",
+      "bookmarkCount": 1,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936461101199204430",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4oqgTMEBLM",
+            "expanded_url": "https://twitter.com/dimden/status/1936461101199204430/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936460992864485376",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936460992864485376",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfsQNhFoAACgACGt+xHJpXIE4AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+xA2EWgAAKAAIa37EcmlcgTgAA",
+                "media_key": "3_1936460992864485376"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-xA2EWgAAS9AI.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1680,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3420,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 2000,
+                  "x": 1000,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4000,
+              "width": 3000
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4oqgTMEBLM"
+          },
+          {
+            "display_url": "pic.twitter.com/4oqgTMEBLM",
+            "expanded_url": "https://twitter.com/dimden/status/1936461101199204430/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 351,
+                    "w": 351,
+                    "x": 1025,
+                    "y": 257
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 687,
+                    "w": 687,
+                    "x": 2003,
+                    "y": 503
+                  }
+                ]
+              }
+            },
+            "id_str": "1936461021729689600",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936461021729689600",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfsQoZlpAACgACGt+xHJpXIE4AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+xChmWkAAKAAIa37EcmlcgTgAA",
+                "media_key": "3_1936461021729689600"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-xChmWkAAfjl8.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1680,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 460
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3420,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4000,
+              "width": 3000
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4oqgTMEBLM"
+          },
+          {
+            "display_url": "pic.twitter.com/4oqgTMEBLM",
+            "expanded_url": "https://twitter.com/dimden/status/1936461101199204430/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936461049189818368",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936461049189818368",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfsRB+VuAACgACGt+xHJpXIE4AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+xEH5W4AAKAAIa37EcmlcgTgAA",
+                "media_key": "3_1936461049189818368"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-xEH5W4AAEFXR.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1680,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3420,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 2000,
+                  "x": 100,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4000,
+              "width": 3000
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4oqgTMEBLM"
+          },
+          {
+            "display_url": "pic.twitter.com/4oqgTMEBLM",
+            "expanded_url": "https://twitter.com/dimden/status/1936461101199204430/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 81,
+                    "w": 81,
+                    "x": 727,
+                    "y": 183
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 160,
+                    "w": 160,
+                    "x": 1421,
+                    "y": 359
+                  }
+                ]
+              }
+            },
+            "id_str": "1936461074590552064",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936461074590552064",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfsRZoV1AACgACGt+xHJpXIE4AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+xFmhXUAAKAAIa37EcmlcgTgAA",
+                "media_key": "3_1936461074590552064"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-xFmhXUAAMl9l.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2240,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 1000,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 2632,
+                  "x": 1368,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 1500,
+                  "x": 2500,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3000,
+              "width": 4000
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4oqgTMEBLM"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936423506339561981",
+      "url": "https://x.com/dimden/status/1936423506339561981",
+      "twitterUrl": "https://twitter.com/dimden/status/1936423506339561981",
+      "text": "https://t.co/YLwtuyHJrO",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 44,
+      "quoteCount": 0,
+      "viewCount": 1691,
+      "createdAt": "Sat Jun 21 13:58:35 +0000 2025",
+      "lang": "zxx",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936423506339561981",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YLwtuyHJrO",
+            "expanded_url": "https://twitter.com/dimden/status/1936423506339561981/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 455,
+                    "w": 455,
+                    "x": 1513,
+                    "y": 277
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 890,
+                    "w": 890,
+                    "x": 2957,
+                    "y": 542
+                  }
+                ]
+              }
+            },
+            "id_str": "1936423343147593728",
+            "indices": [
+              0,
+              23
+            ],
+            "media_key": "3_1936423343147593728",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfjsVfFjAACgACGt+O614WAf0AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+OxV8WMAAKAAIa347rXhYB/QAA",
+                "media_key": "3_1936423343147593728"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-OxV8WMAAcgXm.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2240,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 200,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 2632,
+                  "x": 384,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 1500,
+                  "x": 950,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3000,
+              "width": 4000
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YLwtuyHJrO"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936423003572654411",
+      "url": "https://x.com/dimden/status/1936423003572654411",
+      "twitterUrl": "https://twitter.com/dimden/status/1936423003572654411",
+      "text": "https://t.co/9p6rQzCdfD",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 61,
+      "quoteCount": 0,
+      "viewCount": 1949,
+      "createdAt": "Sat Jun 21 13:56:35 +0000 2025",
+      "lang": "zxx",
       "bookmarkCount": 3,
       "isReply": false,
       "inReplyToId": null,
-      "conversationId": "1932019230800568671",
+      "conversationId": "1936423003572654411",
       "inReplyToUserId": null,
       "inReplyToUsername": null,
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {},
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1931363584681943403",
-      "url": "https://x.com/dimden/status/1931363584681943403",
-      "twitterUrl": "https://twitter.com/dimden/status/1931363584681943403",
-      "text": "cuz go has way less built in functions i have to implement a lot of \"basic\" things and i keep panicking thinking oh no itll be slow now.... (clueless)",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 26,
-      "quoteCount": 0,
-      "viewCount": 1481,
-      "createdAt": "Sat Jun 07 14:52:16 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1931363374161400261",
-      "conversationId": "1931363374161400261",
-      "inReplyToUserId": "1708130407663759360",
-      "inReplyToUsername": "dimden",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {},
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1931363374161400261",
-      "url": "https://x.com/dimden/status/1931363374161400261",
-      "twitterUrl": "https://twitter.com/dimden/status/1931363374161400261",
-      "text": "for the first time in my life im seriously using something thats not js (go) and I'm ready to coin a new term: JavaScript Syndrome\nits when u always try to use built-in funcs cuz u know theyre C++ and fast and when u have to implement something urself u think itll be slow",
-      "source": "Twitter for iPhone",
-      "retweetCount": 1,
-      "replyCount": 3,
-      "likeCount": 71,
-      "quoteCount": 0,
-      "viewCount": 2575,
-      "createdAt": "Sat Jun 07 14:51:26 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 4,
-      "isReply": false,
-      "inReplyToId": null,
-      "conversationId": "1931363374161400261",
-      "inReplyToUserId": null,
-      "inReplyToUsername": null,
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {},
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1931362460641992731",
-      "url": "https://x.com/dimden/status/1931362460641992731",
-      "twitterUrl": "https://twitter.com/dimden/status/1931362460641992731",
-      "text": "@lcbzerozero javascript",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 2,
-      "quoteCount": 1,
-      "viewCount": 223,
-      "createdAt": "Sat Jun 07 14:47:48 +0000 2025",
-      "lang": "es",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1931358342338789848",
-      "conversationId": "1931357810219950580",
-      "inReplyToUserId": "1267461891615600646",
-      "inReplyToUsername": "lcbzerozero",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
+      "extendedEntities": {
+        "media": [
           {
-            "id_str": "1267461891615600646",
+            "display_url": "pic.twitter.com/9p6rQzCdfD",
+            "expanded_url": "https://twitter.com/dimden/status/1936423003572654411/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936422975852486656",
             "indices": [
               0,
-              12
+              23
             ],
-            "name": "Arf",
-            "screen_name": "lcbzerozero"
+            "media_key": "3_1936422975852486656",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfjm/al6AACgACGt+Odk7X0UsAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+Ob9qXoAAKAAIa3452TtfRSwAA",
+                "media_key": "3_1936422975852486656"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-Ob9qXoAAyQs_.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2240,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 2632,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 1500,
+                  "x": 350,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3000,
+              "width": 4000
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9p6rQzCdfD"
           }
         ]
       },
+      "card": null,
+      "place": {},
+      "entities": {},
       "quoted_tweet": null,
       "retweeted_tweet": null
     },
     {
       "type": "tweet",
-      "id": "1931357810219950580",
-      "url": "https://x.com/dimden/status/1931357810219950580",
-      "twitterUrl": "https://twitter.com/dimden/status/1931357810219950580",
-      "text": "i dont like typed programming languages (my most controversial take)",
+      "id": "1936422746264650012",
+      "url": "https://x.com/dimden/status/1936422746264650012",
+      "twitterUrl": "https://twitter.com/dimden/status/1936422746264650012",
+      "text": "Radioactive Hills https://t.co/kfwtpXd1RK",
       "source": "Twitter for iPhone",
       "retweetCount": 1,
-      "replyCount": 5,
-      "likeCount": 67,
-      "quoteCount": 1,
-      "viewCount": 3680,
-      "createdAt": "Sat Jun 07 14:29:19 +0000 2025",
+      "replyCount": 0,
+      "likeCount": 54,
+      "quoteCount": 0,
+      "viewCount": 1736,
+      "createdAt": "Sat Jun 21 13:55:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1936422746264650012",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kfwtpXd1RK",
+            "expanded_url": "https://twitter.com/dimden/status/1936422746264650012/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936422657756454912",
+            "indices": [
+              18,
+              41
+            ],
+            "media_key": "3_1936422657756454912",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfjiXKl2AACgACGt+OOmYXQRwAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+OJcqXYAAKAAIa3446ZhdBHAAA",
+                "media_key": "3_1936422657756454912"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-OJcqXYAAKoN3.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2240,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 800,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 2632,
+                  "x": 984,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 1500,
+                  "x": 1550,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3000,
+              "width": 4000
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kfwtpXd1RK"
+          },
+          {
+            "display_url": "pic.twitter.com/kfwtpXd1RK",
+            "expanded_url": "https://twitter.com/dimden/status/1936422746264650012/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936422682838351872",
+            "indices": [
+              18,
+              41
+            ],
+            "media_key": "3_1936422682838351872",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfjiuhlsAACgACGt+OOmYXQRwAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+OK6GWwAAKAAIa3446ZhdBHAAA",
+                "media_key": "3_1936422682838351872"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-OK6GWwAAdIfi.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1680,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 860
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 200
+                },
+                {
+                  "h": 3420,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4000,
+              "width": 3000
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kfwtpXd1RK"
+          },
+          {
+            "display_url": "pic.twitter.com/kfwtpXd1RK",
+            "expanded_url": "https://twitter.com/dimden/status/1936422746264650012/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1936422716413784064",
+            "indices": [
+              18,
+              41
+            ],
+            "media_key": "3_1936422716413784064",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfjjNy1zAACgACGt+OOmYXQRwAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt+OM3LXMAAKAAIa3446ZhdBHAAA",
+                "media_key": "3_1936422716413784064"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt-OM3LXMAAHjko.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2240,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 400,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 2632,
+                  "x": 584,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 1500,
+                  "x": 1150,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3000,
+              "width": 4000
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kfwtpXd1RK"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1936377582867411032",
+      "url": "https://x.com/dimden/status/1936377582867411032",
+      "twitterUrl": "https://twitter.com/dimden/status/1936377582867411032",
+      "text": "fair amount of cat https://t.co/YaI3h0dcUq",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 2,
+      "likeCount": 98,
+      "quoteCount": 0,
+      "viewCount": 2265,
+      "createdAt": "Sat Jun 21 10:56:06 +0000 2025",
       "lang": "en",
       "bookmarkCount": 1,
       "isReply": false,
       "inReplyToId": null,
-      "conversationId": "1931357810219950580",
+      "conversationId": "1936377582867411032",
       "inReplyToUserId": null,
       "inReplyToUsername": null,
-      "extendedEntities": {},
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YaI3h0dcUq",
+            "expanded_url": "https://twitter.com/dimden/status/1936377582867411032/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 91,
+                    "w": 91,
+                    "x": 167,
+                    "y": 1393
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 179,
+                    "w": 179,
+                    "x": 328,
+                    "y": 2722
+                  }
+                ]
+              }
+            },
+            "id_str": "1936377486448701440",
+            "indices": [
+              19,
+              42
+            ],
+            "media_key": "3_1936377486448701440",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfZRCG1rAACgACGt9lJvnXcFgAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt9lEIbWsAAKAAIa32Um+ddwWAAA",
+                "media_key": "3_1936377486448701440"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt9lEIbWsAAZnvs.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1680,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 1660
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 1000
+                },
+                {
+                  "h": 3420,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 580
+                },
+                {
+                  "h": 4000,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4000,
+                  "w": 3000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4000,
+              "width": 3000
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1536
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YaI3h0dcUq"
+          },
+          {
+            "display_url": "pic.twitter.com/YaI3h0dcUq",
+            "expanded_url": "https://twitter.com/dimden/status/1936377582867411032/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 91,
+                    "w": 91,
+                    "x": 1825,
+                    "y": 1115
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 179,
+                    "w": 179,
+                    "x": 3566,
+                    "y": 2179
+                  }
+                ]
+              }
+            },
+            "id_str": "1936377529251598336",
+            "indices": [
+              19,
+              42
+            ],
+            "media_key": "3_1936377529251598336",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrfZRp+FxAACgACGt9lJvnXcFgAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGt9lGn4XEAAKAAIa32Um+ddwWAAA",
+                "media_key": "3_1936377529251598336"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gt9lGn4XEAAjoK9.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 2240,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 3000,
+                  "x": 200,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 2632,
+                  "x": 384,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 1500,
+                  "x": 950,
+                  "y": 0
+                },
+                {
+                  "h": 3000,
+                  "w": 4000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 3000,
+              "width": 4000
+            },
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YaI3h0dcUq"
+          }
+        ]
+      },
       "card": null,
       "place": {},
       "entities": {},
@@ -557,166 +2034,22 @@
     },
     {
       "type": "tweet",
-      "id": "1931076119039459524",
-      "url": "https://x.com/dimden/status/1931076119039459524",
-      "twitterUrl": "https://twitter.com/dimden/status/1931076119039459524",
-      "text": "fairly eepy",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 22,
-      "quoteCount": 0,
-      "viewCount": 1747,
-      "createdAt": "Fri Jun 06 19:49:59 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 1,
-      "isReply": false,
-      "inReplyToId": null,
-      "conversationId": "1931076119039459524",
-      "inReplyToUserId": null,
-      "inReplyToUsername": null,
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {},
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1931033163993698500",
-      "url": "https://x.com/dimden/status/1931033163993698500",
-      "twitterUrl": "https://twitter.com/dimden/status/1931033163993698500",
-      "text": "@catboyfan2 i just keep spamming ctrl until its up",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 4,
-      "quoteCount": 0,
-      "viewCount": 211,
-      "createdAt": "Fri Jun 06 16:59:17 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1931025831343841398",
-      "conversationId": "1931025831343841398",
-      "inReplyToUserId": "1681558559337910272",
-      "inReplyToUsername": "catboyfan2",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1681558559337910272",
-            "indices": [
-              0,
-              11
-            ],
-            "name": "hazel",
-            "screen_name": "catboyfan2"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930921132175118456",
-      "url": "https://x.com/dimden/status/1930921132175118456",
-      "twitterUrl": "https://twitter.com/dimden/status/1930921132175118456",
-      "text": "@Vixic97 spring: march april may\nsummer: june july august \nautumn: september october november \nwinter: december january february \n\nhere at least",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 0,
-      "quoteCount": 0,
-      "viewCount": 28,
-      "createdAt": "Fri Jun 06 09:34:07 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1930782896387723741",
-      "conversationId": "1930756728922186106",
-      "inReplyToUserId": "1192889511648399365",
-      "inReplyToUsername": "Vixic97",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1192889511648399365",
-            "indices": [
-              0,
-              8
-            ],
-            "name": "Vixic 🐟",
-            "screen_name": "Vixic97"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930769278178922816",
-      "url": "https://x.com/dimden/status/1930769278178922816",
-      "twitterUrl": "https://twitter.com/dimden/status/1930769278178922816",
-      "text": "@Vixic97 it started 6 days ago",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 1,
-      "likeCount": 0,
-      "quoteCount": 0,
-      "viewCount": 64,
-      "createdAt": "Thu Jun 05 23:30:42 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1930761716079681933",
-      "conversationId": "1930756728922186106",
-      "inReplyToUserId": "1192889511648399365",
-      "inReplyToUsername": "Vixic97",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1192889511648399365",
-            "indices": [
-              0,
-              8
-            ],
-            "name": "Vixic 🐟",
-            "screen_name": "Vixic97"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930756728922186106",
-      "url": "https://x.com/dimden/status/1930756728922186106",
-      "twitterUrl": "https://twitter.com/dimden/status/1930756728922186106",
-      "text": "can summer be over already",
+      "id": "1935483584774652073",
+      "url": "https://x.com/dimden/status/1935483584774652073",
+      "twitterUrl": "https://twitter.com/dimden/status/1935483584774652073",
+      "text": "dont stop typing if someone sent a message in middle of doing it",
       "source": "Twitter for iPhone",
       "retweetCount": 3,
       "replyCount": 4,
-      "likeCount": 59,
+      "likeCount": 82,
       "quoteCount": 2,
-      "viewCount": 2698,
-      "createdAt": "Thu Jun 05 22:40:50 +0000 2025",
+      "viewCount": 3920,
+      "createdAt": "Wed Jun 18 23:43:40 +0000 2025",
       "lang": "en",
-      "bookmarkCount": 1,
+      "bookmarkCount": 0,
       "isReply": false,
       "inReplyToId": null,
-      "conversationId": "1930756728922186106",
+      "conversationId": "1935483584774652073",
       "inReplyToUserId": null,
       "inReplyToUsername": null,
       "extendedEntities": {},
@@ -728,254 +2061,275 @@
     },
     {
       "type": "tweet",
-      "id": "1930511030100136377",
-      "url": "https://x.com/dimden/status/1930511030100136377",
-      "twitterUrl": "https://twitter.com/dimden/status/1930511030100136377",
-      "text": "@rokxxu it doesn't count",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 0,
-      "quoteCount": 0,
-      "viewCount": 9,
-      "createdAt": "Thu Jun 05 06:24:31 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1930407262549397604",
-      "conversationId": "1930407262549397604",
-      "inReplyToUserId": "1103306719281758213",
-      "inReplyToUsername": "rokxxu",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1103306719281758213",
-            "indices": [
-              0,
-              7
-            ],
-            "name": "rokxxu (Marco)",
-            "screen_name": "rokxxu"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930379566885024231",
-      "url": "https://x.com/dimden/status/1930379566885024231",
-      "twitterUrl": "https://twitter.com/dimden/status/1930379566885024231",
-      "text": "@TwittTetris l",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 0,
-      "quoteCount": 0,
-      "viewCount": 180,
-      "createdAt": "Wed Jun 04 21:42:08 +0000 2025",
-      "lang": "und",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1930376515536949626",
-      "conversationId": "1930376515536949626",
-      "inReplyToUserId": "1424384057991995397",
-      "inReplyToUsername": "TwittTetris",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1424384057991995397",
-            "indices": [
-              0,
-              12
-            ],
-            "name": "Twittеr Plays Tetris",
-            "screen_name": "TwittTetris"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930302004418544109",
-      "url": "https://x.com/dimden/status/1930302004418544109",
-      "twitterUrl": "https://twitter.com/dimden/status/1930302004418544109",
-      "text": "@TwittTetris i cant believe we survived that, drop",
-      "source": "Twitter for iPhone",
-      "retweetCount": 0,
-      "replyCount": 0,
-      "likeCount": 6,
-      "quoteCount": 0,
-      "viewCount": 211,
-      "createdAt": "Wed Jun 04 16:33:55 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 0,
-      "isReply": true,
-      "inReplyToId": "1930301018673168746",
-      "conversationId": "1930301018673168746",
-      "inReplyToUserId": "1424384057991995397",
-      "inReplyToUsername": "TwittTetris",
-      "extendedEntities": {},
-      "card": null,
-      "place": {},
-      "entities": {
-        "user_mentions": [
-          {
-            "id_str": "1424384057991995397",
-            "indices": [
-              0,
-              12
-            ],
-            "name": "Twittеr Plays Tetris",
-            "screen_name": "TwittTetris"
-          }
-        ]
-      },
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930279226030031096",
-      "url": "https://x.com/dimden/status/1930279226030031096",
-      "twitterUrl": "https://twitter.com/dimden/status/1930279226030031096",
-      "text": "too many people buying deltarune at once https://t.co/hLPa0SzIyc",
-      "source": "Twitter for iPhone",
-      "retweetCount": 6,
-      "replyCount": 1,
-      "likeCount": 139,
-      "quoteCount": 0,
-      "viewCount": 3471,
-      "createdAt": "Wed Jun 04 15:03:24 +0000 2025",
-      "lang": "en",
-      "bookmarkCount": 3,
-      "isReply": false,
-      "inReplyToId": null,
-      "conversationId": "1930279226030031096",
-      "inReplyToUserId": null,
-      "inReplyToUsername": null,
-      "extendedEntities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/hLPa0SzIyc",
-            "expanded_url": "https://twitter.com/dimden/status/1930279226030031096/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "features": {
-              "large": {},
-              "orig": {}
-            },
-            "id_str": "1930279221097562112",
-            "indices": [
-              41,
-              64
-            ],
-            "media_key": "3_1930279221097562112",
-            "media_results": {
-              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrJurl61oAACgACGsm6uqDWAPgAAA==",
-              "result": {
-                "__typename": "ApiMedia",
-                "id": "QXBpTWVkaWE6DAABCgABGsm6uXrWgAAKAAIaybq6oNYA+AAA",
-                "media_key": "3_1930279221097562112"
-              }
-            },
-            "media_url_https": "https://pbs.twimg.com/media/Gsm6uXrWgAA18T0.png",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 123,
-                  "w": 220,
-                  "x": 39,
-                  "y": 0
-                },
-                {
-                  "h": 123,
-                  "w": 123,
-                  "x": 88,
-                  "y": 0
-                },
-                {
-                  "h": 123,
-                  "w": 108,
-                  "x": 95,
-                  "y": 0
-                },
-                {
-                  "h": 123,
-                  "w": 62,
-                  "x": 118,
-                  "y": 0
-                },
-                {
-                  "h": 123,
-                  "w": 859,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 123,
-              "width": 859
-            },
-            "sizes": {
-              "large": {
-                "h": 123,
-                "w": 859
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/hLPa0SzIyc"
-          }
-        ]
-      },
-      "card": null,
-      "place": {},
-      "entities": {},
-      "quoted_tweet": null,
-      "retweeted_tweet": null
-    },
-    {
-      "type": "tweet",
-      "id": "1930263515538899431",
-      "url": "https://x.com/dimden/status/1930263515538899431",
-      "twitterUrl": "https://twitter.com/dimden/status/1930263515538899431",
-      "text": "@TwittTetris left",
+      "id": "1935300964535472202",
+      "url": "https://x.com/dimden/status/1935300964535472202",
+      "twitterUrl": "https://twitter.com/dimden/status/1935300964535472202",
+      "text": "@hazel8433268432 Hi",
       "source": "Twitter for iPhone",
       "retweetCount": 0,
       "replyCount": 0,
       "likeCount": 1,
       "quoteCount": 0,
-      "viewCount": 38,
-      "createdAt": "Wed Jun 04 14:00:59 +0000 2025",
-      "lang": "en",
+      "viewCount": 23,
+      "createdAt": "Wed Jun 18 11:38:00 +0000 2025",
+      "lang": "und",
       "bookmarkCount": 0,
       "isReply": true,
-      "inReplyToId": "1930263269475836055",
-      "conversationId": "1930263269475836055",
-      "inReplyToUserId": "1424384057991995397",
-      "inReplyToUsername": "TwittTetris",
+      "inReplyToId": "1935294216172880335",
+      "conversationId": "1935294216172880335",
+      "inReplyToUserId": "1706122066527997952",
+      "inReplyToUsername": "hazel8433268432",
       "extendedEntities": {},
       "card": null,
       "place": {},
       "entities": {
         "user_mentions": [
           {
-            "id_str": "1424384057991995397",
+            "id_str": "1706122066527997952",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "hazel extended ver.",
+            "screen_name": "hazel8433268432"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935087256647397798",
+      "url": "https://x.com/dimden/status/1935087256647397798",
+      "twitterUrl": "https://twitter.com/dimden/status/1935087256647397798",
+      "text": "@alexdickson @dimdenEFF still waiting 🥹 https://t.co/K5y3DjHfzi",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 22,
+      "createdAt": "Tue Jun 17 21:28:48 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1438064221359640577",
+      "conversationId": "1123208825937584128",
+      "inReplyToUserId": "16625702",
+      "inReplyToUsername": "alexdickson",
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/K5y3DjHfzi",
+            "expanded_url": "https://twitter.com/dimden/status/1935087256647397798/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1935087251421024257",
+            "indices": [
+              40,
+              63
+            ],
+            "media_key": "3_1935087251421024257",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARraz5pGVlABCgACGtrPm33acaYAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtrPmkZWUAEKAAIa2s+bfdpxpgAA",
+                "media_key": "3_1935087251421024257"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GtrPmkZWUAEfqYA.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 244,
+                  "w": 435,
+                  "x": 0,
+                  "y": 44
+                },
+                {
+                  "h": 435,
+                  "w": 435,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 496,
+                  "w": 435,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 604,
+                  "w": 302,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 604,
+                  "w": 435,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 604,
+              "width": 435
+            },
+            "sizes": {
+              "large": {
+                "h": 604,
+                "w": 435
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/K5y3DjHfzi"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "16625702",
             "indices": [
               0,
               12
             ],
-            "name": "Twittеr Plays Tetris",
-            "screen_name": "TwittTetris"
+            "name": "Alex Dickson",
+            "screen_name": "alexdickson"
+          },
+          {
+            "id_str": "1123203847776763904",
+            "indices": [
+              13,
+              23
+            ],
+            "name": "dimden",
+            "screen_name": "dimdenEFF"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935073642330956100",
+      "url": "https://x.com/dimden/status/1935073642330956100",
+      "twitterUrl": "https://twitter.com/dimden/status/1935073642330956100",
+      "text": "@FREGMNT just install kiwi browser and get oldtwitter on it",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 143,
+      "createdAt": "Tue Jun 17 20:34:42 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": true,
+      "inReplyToId": "1935073496641765772",
+      "conversationId": "1935067934432309743",
+      "inReplyToUserId": "1399136281997762560",
+      "inReplyToUsername": "FREGMNT",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1399136281997762560",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "Fregment☭🇰🇵🇷🇺🇨🇳",
+            "screen_name": "FREGMNT"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1935073307105091825",
+      "url": "https://x.com/dimden/status/1935073307105091825",
+      "twitterUrl": "https://twitter.com/dimden/status/1935073307105091825",
+      "text": "@FREGMNT exists already",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "viewCount": 439,
+      "createdAt": "Tue Jun 17 20:33:22 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1935072854485487669",
+      "conversationId": "1935067934432309743",
+      "inReplyToUserId": "1399136281997762560",
+      "inReplyToUsername": "FREGMNT",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1399136281997762560",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "Fregment☭🇰🇵🇷🇺🇨🇳",
+            "screen_name": "FREGMNT"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1934720660363780423",
+      "url": "https://x.com/dimden/status/1934720660363780423",
+      "twitterUrl": "https://twitter.com/dimden/status/1934720660363780423",
+      "text": "@footballbrain14 bread..",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 40,
+      "createdAt": "Mon Jun 16 21:12:05 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1934701971316830461",
+      "conversationId": "1934677285539570016",
+      "inReplyToUserId": "1568900038679576577",
+      "inReplyToUsername": "footballbrain14",
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1568900038679576577",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Axel Foley - NAFO Division of DPD 🇺🇦",
+            "screen_name": "footballbrain14"
           }
         ]
       },
